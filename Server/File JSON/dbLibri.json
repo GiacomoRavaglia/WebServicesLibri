@@ -1,0 +1,2203 @@
+{"book":[
+  {
+    "Id": 0,
+    "Title": "in",
+    "Author": "Cervantes Reyes",
+    "PublishingHouse": "Obones",
+    "Series": "id",
+    "Picture": "http://ipsum.it/aute",
+    "Price": "$46.22",
+    "PubblicationYear": 1260,
+    "Discount": 25,
+    "StorageDate": "2015-06-12",
+    "Availability": 19,
+    "Informations": [
+      {
+        "PagesCount": 281,
+        "IsHardCover": false,
+        "Description": "Nisi commodo exercitation ut tempor. Ex qui tempor anim incididunt aliquip. Eu eiusmod et minim velit exercitation velit consectetur cillum aliquip. Adipisicing ea ea magna consequat ut ullamco excepteur. Eiusmod veniam nostrud excepteur sit ex duis id eu cillum.\r\n"
+      }
+    ],
+    "Category": "architettura e urbanistica",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 1,
+    "Title": "velit esse",
+    "Author": "Vang Davidson",
+    "PublishingHouse": "Datagen",
+    "Series": "ut",
+    "Picture": "http://mollit.it/incididunt",
+    "Price": "$24.51",
+    "PubblicationYear": 1488,
+    "Discount": 50,
+    "StorageDate": "2014-05-05",
+    "Availability": 47,
+    "Informations": [
+      {
+        "PagesCount": 732,
+        "IsHardCover": false,
+        "Description": "Duis exercitation officia commodo labore quis nulla ex labore officia nisi. Esse mollit cillum officia laboris in veniam do labore. Anim proident adipisicing dolore veniam excepteur. Nostrud ad ad culpa aliquip nostrud Lorem proident deserunt sint commodo. Eu sit Lorem minim duis dolore velit laborum anim qui.\r\n"
+      }
+    ],
+    "Category": "sport",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 2,
+    "Title": "minim eu",
+    "Author": "Kelley Lang",
+    "PublishingHouse": "Norsup",
+    "Series": "exercitation",
+    "Picture": "http://incididunt.it/non",
+    "Price": "$30.83",
+    "PubblicationYear": 1496,
+    "Discount": 50,
+    "StorageDate": "2017-08-20",
+    "Availability": 53,
+    "Informations": [
+      {
+        "PagesCount": 803,
+        "IsHardCover": false,
+        "Description": "Dolor in laborum nulla commodo. Anim voluptate sunt sunt aliquip Lorem reprehenderit. Sit mollit cillum nisi proident laboris minim fugiat id. Qui deserunt esse ipsum ullamco.\r\n"
+      }
+    ],
+    "Category": "sport",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 3,
+    "Title": "id",
+    "Author": "Jimmie Kaufman",
+    "PublishingHouse": "Emtrak",
+    "Series": "esse dolor",
+    "Picture": "http://eu.it/consequat",
+    "Price": "$16.53",
+    "PubblicationYear": 660,
+    "Discount": 25,
+    "StorageDate": "2018-07-23",
+    "Availability": 36,
+    "Informations": [
+      {
+        "PagesCount": 121,
+        "IsHardCover": false,
+        "Description": "Deserunt commodo labore non eiusmod tempor minim Lorem velit amet dolore magna sint labore. Minim et cupidatat sint exercitation elit eu nostrud cupidatat commodo sit deserunt pariatur aliquip. Occaecat anim excepteur non aliqua Lorem cupidatat sint. Eu nostrud non deserunt ullamco excepteur tempor do ipsum consectetur proident enim enim. Aliquip do reprehenderit sit anim aliqua officia eiusmod consequat labore magna laborum nisi aute ipsum.\r\n"
+      }
+    ],
+    "Category": "gialli",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 4,
+    "Title": "in",
+    "Author": "Dawn Mullen",
+    "PublishingHouse": "Bisba",
+    "Series": "excepteur ad",
+    "Picture": "http://fugiat.it/duis",
+    "Price": "$5.05",
+    "PubblicationYear": 108,
+    "Discount": 50,
+    "StorageDate": "2017-08-15",
+    "Availability": 13,
+    "Informations": [
+      {
+        "PagesCount": 378,
+        "IsHardCover": true,
+        "Description": "Non ad duis eiusmod ex excepteur. Enim proident nisi commodo pariatur nostrud. Ipsum adipisicing voluptate laborum elit anim ad.\r\n"
+      }
+    ],
+    "Category": "arte",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 5,
+    "Title": "dolor excepteur eiusmod eu qui",
+    "Author": "Jones Malone",
+    "PublishingHouse": "Snacktion",
+    "Series": "aliqua anim",
+    "Picture": "http://sunt.it/irure",
+    "Price": "$16.39",
+    "PubblicationYear": 1761,
+    "Discount": 20,
+    "StorageDate": "2011-06-19",
+    "Availability": 52,
+    "Informations": [
+      {
+        "PagesCount": 912,
+        "IsHardCover": true,
+        "Description": "Culpa laborum irure in dolore cillum anim eu qui laborum. Eiusmod ex nulla elit cillum cupidatat pariatur fugiat excepteur occaecat voluptate culpa anim est. Commodo est nisi et minim ut tempor dolore. Qui magna nisi in sit cupidatat excepteur qui et aliqua eiusmod duis commodo aliquip aute. Cupidatat elit tempor anim duis velit laborum. Deserunt anim Lorem aliqua aute anim id aliquip exercitation nisi occaecat consectetur tempor duis duis.\r\n"
+      }
+    ],
+    "Category": "architettura e urbanistica",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 6,
+    "Title": "nisi excepteur Lorem aliquip",
+    "Author": "Yolanda Baker",
+    "PublishingHouse": "Evidends",
+    "Series": "incididunt non",
+    "Picture": "http://cupidatat.it/occaecat",
+    "Price": "$4.88",
+    "PubblicationYear": 1857,
+    "Discount": 0,
+    "StorageDate": "2010-09-03",
+    "Availability": 35,
+    "Informations": [
+      {
+        "PagesCount": 41,
+        "IsHardCover": false,
+        "Description": "Consequat ut et aliqua ut est aliqua laboris ullamco non labore Lorem do. Qui laborum excepteur nostrud culpa excepteur do irure et cillum culpa consectetur enim. Sunt eu ea ad elit sit laboris ad fugiat adipisicing non aliqua deserunt minim.\r\n"
+      }
+    ],
+    "Category": "fumetti",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 7,
+    "Title": "cillum culpa commodo eiusmod duis",
+    "Author": "Ruiz Villarreal",
+    "PublishingHouse": "Norsul",
+    "Series": "consequat esse",
+    "Picture": "http://ad.it/dolore",
+    "Price": "$49.13",
+    "PubblicationYear": 1067,
+    "Discount": 25,
+    "StorageDate": "2016-05-01",
+    "Availability": 28,
+    "Informations": [
+      {
+        "PagesCount": 393,
+        "IsHardCover": true,
+        "Description": "Do laborum incididunt velit qui ullamco in deserunt adipisicing eu esse. Aliqua tempor aute eu officia laborum sint anim fugiat tempor in ad elit. Sint sunt quis non aliquip magna culpa non laborum ea. Occaecat enim dolor irure nostrud tempor irure dolore fugiat anim sit. Cillum et minim commodo eiusmod sunt in commodo qui consectetur consectetur. Id ullamco Lorem aliquip commodo pariatur deserunt. Enim cupidatat ipsum ullamco elit sunt nostrud fugiat nostrud nisi esse labore esse.\r\n"
+      }
+    ],
+    "Category": "filosofia",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 8,
+    "Title": "eiusmod",
+    "Author": "Christy Murray",
+    "PublishingHouse": "Pawnagra",
+    "Series": "Lorem",
+    "Picture": "http://reprehenderit.it/esse",
+    "Price": "$8.63",
+    "PubblicationYear": 1642,
+    "Discount": 25,
+    "StorageDate": "2017-11-26",
+    "Availability": 29,
+    "Informations": [
+      {
+        "PagesCount": 504,
+        "IsHardCover": true,
+        "Description": "Ullamco pariatur commodo aliqua exercitation ad. Commodo laborum deserunt irure occaecat laboris do occaecat velit dolore occaecat quis aliquip magna. Eiusmod qui adipisicing proident reprehenderit enim anim ut quis aliquip ipsum. Cupidatat in culpa nulla sit elit cupidatat culpa aliqua sit qui aute excepteur tempor quis. Quis tempor deserunt cupidatat deserunt. Commodo Lorem amet labore cillum ullamco ut cillum pariatur dolore deserunt aliqua veniam laborum anim.\r\n"
+      }
+    ],
+    "Category": "diritto",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 9,
+    "Title": "nisi ex officia nostrud esse",
+    "Author": "Crane Oneill",
+    "PublishingHouse": "Kindaloo",
+    "Series": "proident",
+    "Picture": "http://et.it/cillum",
+    "Price": "$12.48",
+    "PubblicationYear": 879,
+    "Discount": 50,
+    "StorageDate": "2015-02-26",
+    "Availability": 35,
+    "Informations": [
+      {
+        "PagesCount": 113,
+        "IsHardCover": false,
+        "Description": "Dolor ipsum nulla amet labore irure aliqua sunt minim quis. Velit eiusmod ullamco ut ullamco labore. Consectetur cillum do aliquip deserunt anim ipsum id nostrud culpa. Reprehenderit excepteur minim est occaecat id eu enim. Officia mollit est commodo labore officia cupidatat aute eu commodo dolor mollit est ullamco. Non amet eiusmod cillum sunt nostrud laborum proident consectetur.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 10,
+    "Title": "nisi laboris proident velit",
+    "Author": "Campos Smith",
+    "PublishingHouse": "Affluex",
+    "Series": "consequat minim",
+    "Picture": "http://exercitation.it/ut",
+    "Price": "$18.32",
+    "PubblicationYear": 1802,
+    "Discount": 50,
+    "StorageDate": "2015-11-28",
+    "Availability": 3,
+    "Informations": [
+      {
+        "PagesCount": 775,
+        "IsHardCover": false,
+        "Description": "Occaecat id Lorem deserunt velit velit velit magna. Eu veniam ea anim ut incididunt fugiat. Dolore exercitation ipsum mollit mollit in aliqua. Sit mollit id cupidatat deserunt proident commodo sint ullamco laborum proident sint culpa. Proident aliquip in cillum non officia non cillum non. Mollit mollit do eiusmod aliqua proident voluptate labore mollit cillum.\r\n"
+      }
+    ],
+    "Category": "religiosi",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 11,
+    "Title": "incididunt veniam nulla do sit",
+    "Author": "Robertson Woods",
+    "PublishingHouse": "Fiberox",
+    "Series": "aliquip",
+    "Picture": "http://cupidatat.it/dolor",
+    "Price": "$41.89",
+    "PubblicationYear": 1882,
+    "Discount": 20,
+    "StorageDate": "2013-10-16",
+    "Availability": 50,
+    "Informations": [
+      {
+        "PagesCount": 890,
+        "IsHardCover": true,
+        "Description": "Ad in consequat fugiat culpa fugiat occaecat excepteur sit quis nisi sint culpa eiusmod. Duis adipisicing fugiat Lorem sint eiusmod exercitation non id elit eu sit officia. Eiusmod incididunt dolor aliqua aliquip deserunt reprehenderit. Ea nisi do elit sit. Enim do laborum sint deserunt ut consectetur incididunt ullamco.\r\n"
+      }
+    ],
+    "Category": "religiosi",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 12,
+    "Title": "elit enim sunt nulla eiusmod",
+    "Author": "Gay Duran",
+    "PublishingHouse": "Avit",
+    "Series": "culpa",
+    "Picture": "http://enim.it/anim",
+    "Price": "$2.03",
+    "PubblicationYear": 1837,
+    "Discount": 0,
+    "StorageDate": "2015-04-04",
+    "Availability": 36,
+    "Informations": [
+      {
+        "PagesCount": 710,
+        "IsHardCover": true,
+        "Description": "Incididunt elit commodo nostrud cillum. Labore consequat nostrud tempor do nisi proident magna sunt quis. Sint incididunt culpa cupidatat quis est esse.\r\n"
+      }
+    ],
+    "Category": "economia e management",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 13,
+    "Title": "sint sunt aliquip Lorem cupidatat",
+    "Author": "Lloyd Patterson",
+    "PublishingHouse": "Savvy",
+    "Series": "adipisicing",
+    "Picture": "http://nisi.it/cupidatat",
+    "Price": "$46.84",
+    "PubblicationYear": 1859,
+    "Discount": 50,
+    "StorageDate": "2013-05-21",
+    "Availability": 26,
+    "Informations": [
+      {
+        "PagesCount": 737,
+        "IsHardCover": true,
+        "Description": "Proident cupidatat deserunt sunt do dolore non laborum irure excepteur occaecat occaecat. Cillum ad aliquip nisi mollit. Ea adipisicing commodo ipsum ad deserunt ad do ipsum. Anim officia consequat nisi pariatur mollit nisi cillum eiusmod sit tempor commodo. Do reprehenderit ut aliqua labore aute et.\r\n"
+      }
+    ],
+    "Category": "religiosi",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 14,
+    "Title": "laborum ipsum excepteur",
+    "Author": "Woodward Baxter",
+    "PublishingHouse": "Undertap",
+    "Series": "nostrud",
+    "Picture": "http://incididunt.it/aute",
+    "Price": "$47.31",
+    "PubblicationYear": 1449,
+    "Discount": 50,
+    "StorageDate": "2013-11-16",
+    "Availability": 53,
+    "Informations": [
+      {
+        "PagesCount": 697,
+        "IsHardCover": true,
+        "Description": "Aliqua velit officia non pariatur ex sint consectetur eiusmod tempor culpa sunt cillum sint. Eu deserunt pariatur irure nostrud ea commodo aute. Laborum cupidatat sint adipisicing aliqua dolore fugiat cillum. Veniam Lorem deserunt pariatur officia officia eiusmod commodo nulla do cupidatat.\r\n"
+      }
+    ],
+    "Category": "gialli",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 15,
+    "Title": "velit ea ea irure",
+    "Author": "Bates Dickson",
+    "PublishingHouse": "Xylar",
+    "Series": "est",
+    "Picture": "http://dolor.it/aliqua",
+    "Price": "$40.33",
+    "PubblicationYear": 1763,
+    "Discount": 25,
+    "StorageDate": "2016-08-31",
+    "Availability": 12,
+    "Informations": [
+      {
+        "PagesCount": 626,
+        "IsHardCover": true,
+        "Description": "Dolor officia ipsum nostrud fugiat tempor nisi ad tempor tempor excepteur proident deserunt. Commodo excepteur reprehenderit veniam cupidatat quis voluptate in proident in nulla et. Sint Lorem minim deserunt ad. Incididunt consequat excepteur minim magna sunt mollit non sunt nulla ex voluptate id fugiat eu.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 16,
+    "Title": "qui esse amet",
+    "Author": "Amy Chang",
+    "PublishingHouse": "Kneedles",
+    "Series": "ex",
+    "Picture": "http://culpa.it/labore",
+    "Price": "$32.11",
+    "PubblicationYear": 130,
+    "Discount": 50,
+    "StorageDate": "2015-11-15",
+    "Availability": 38,
+    "Informations": [
+      {
+        "PagesCount": 752,
+        "IsHardCover": false,
+        "Description": "Dolor non eiusmod mollit anim cillum elit culpa et do velit. Exercitation aliquip dolor est dolor qui quis dolor aliquip voluptate minim. Cupidatat Lorem mollit occaecat tempor cupidatat occaecat qui magna. Esse fugiat eu sint dolor sunt laborum aliqua proident ipsum nostrud proident sint dolore.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 17,
+    "Title": "cillum nisi culpa",
+    "Author": "Pearlie Pennington",
+    "PublishingHouse": "Cowtown",
+    "Series": "ipsum ipsum",
+    "Picture": "http://tempor.it/voluptate",
+    "Price": "$15.98",
+    "PubblicationYear": 764,
+    "Discount": 0,
+    "StorageDate": "2018-02-15",
+    "Availability": 2,
+    "Informations": [
+      {
+        "PagesCount": 217,
+        "IsHardCover": false,
+        "Description": "Eu ullamco est qui irure in fugiat. Duis est irure reprehenderit Lorem excepteur adipisicing tempor cupidatat ut cupidatat fugiat irure pariatur non. Eiusmod commodo nisi commodo duis ipsum est irure aliqua elit labore sint. Lorem fugiat ea id in consequat. Et ex ea dolor mollit.\r\n"
+      }
+    ],
+    "Category": "arte",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 18,
+    "Title": "eu dolore eiusmod dolor in",
+    "Author": "Trina Blackwell",
+    "PublishingHouse": "Koogle",
+    "Series": "adipisicing",
+    "Picture": "http://dolor.it/proident",
+    "Price": "$8.11",
+    "PubblicationYear": 690,
+    "Discount": 50,
+    "StorageDate": "2018-12-18",
+    "Availability": 18,
+    "Informations": [
+      {
+        "PagesCount": 906,
+        "IsHardCover": true,
+        "Description": "Reprehenderit consequat ipsum incididunt occaecat. Cupidatat fugiat laboris ea sit et excepteur occaecat non fugiat occaecat aliqua eiusmod sint duis. Irure veniam quis cillum cillum laborum velit eiusmod magna aliqua deserunt nulla nostrud. Anim eiusmod esse excepteur cillum enim ut pariatur. Consectetur cupidatat esse culpa dolore id consequat sint sint enim mollit anim deserunt ea do. Irure nostrud veniam laboris cupidatat aliquip voluptate esse consectetur eu qui et.\r\n"
+      }
+    ],
+    "Category": "fantascienza e fantasy",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 19,
+    "Title": "eu consectetur",
+    "Author": "Kim Hartman",
+    "PublishingHouse": "Nutralab",
+    "Series": "consectetur cillum",
+    "Picture": "http://exercitation.it/esse",
+    "Price": "$43.52",
+    "PubblicationYear": 759,
+    "Discount": 25,
+    "StorageDate": "2011-02-15",
+    "Availability": 2,
+    "Informations": [
+      {
+        "PagesCount": 106,
+        "IsHardCover": false,
+        "Description": "Sint ad adipisicing nostrud quis anim amet. Sit ullamco consectetur ut enim dolor voluptate Lorem. Minim officia excepteur deserunt pariatur id minim. Voluptate et qui ad consectetur irure amet mollit quis duis. Officia laborum minim voluptate ex minim ex aliqua. Ut aliqua amet ad nisi Lorem aute non in irure. Est cillum mollit officia dolore non aliquip mollit adipisicing labore.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 20,
+    "Title": "officia sit sunt exercitation",
+    "Author": "Hampton Cain",
+    "PublishingHouse": "Maxemia",
+    "Series": "laborum anim",
+    "Picture": "http://quis.it/velit",
+    "Price": "$46.51",
+    "PubblicationYear": 1903,
+    "Discount": 0,
+    "StorageDate": "2017-05-07",
+    "Availability": 4,
+    "Informations": [
+      {
+        "PagesCount": 33,
+        "IsHardCover": false,
+        "Description": "Aute ex nostrud nulla culpa ut pariatur consequat est commodo cillum. Occaecat irure sunt Lorem ex esse incididunt aute esse eu et. Cillum nisi est velit cillum quis aliqua quis reprehenderit exercitation velit tempor incididunt.\r\n"
+      }
+    ],
+    "Category": "gialli",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 21,
+    "Title": "ad commodo dolore",
+    "Author": "Wilkerson Oneal",
+    "PublishingHouse": "Visalia",
+    "Series": "enim est",
+    "Picture": "http://minim.it/est",
+    "Price": "$22.71",
+    "PubblicationYear": 868,
+    "Discount": 0,
+    "StorageDate": "2014-06-04",
+    "Availability": 17,
+    "Informations": [
+      {
+        "PagesCount": 279,
+        "IsHardCover": true,
+        "Description": "Excepteur duis pariatur Lorem nisi enim eu. Ad veniam et eu nulla ipsum. Nisi cillum ea ut incididunt adipisicing ullamco laborum duis duis dolor et ullamco amet cupidatat. Ullamco eiusmod ex Lorem magna qui eiusmod irure esse veniam dolore cillum culpa.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 22,
+    "Title": "mollit pariatur",
+    "Author": "Baxter Bradley",
+    "PublishingHouse": "Entropix",
+    "Series": "deserunt",
+    "Picture": "http://est.it/consequat",
+    "Price": "$32.23",
+    "PubblicationYear": 974,
+    "Discount": 25,
+    "StorageDate": "2015-02-13",
+    "Availability": 35,
+    "Informations": [
+      {
+        "PagesCount": 914,
+        "IsHardCover": true,
+        "Description": "Incididunt in tempor Lorem nostrud incididunt esse in non mollit. Nisi commodo sunt duis irure proident ex elit dolor. Pariatur cupidatat dolor laboris qui eiusmod quis mollit proident proident et in duis reprehenderit. Quis qui minim proident tempor. Esse dolore elit id est minim et ullamco sunt et ullamco duis id labore consectetur. Sunt ullamco do cupidatat consequat aute ullamco dolore proident laborum.\r\n"
+      }
+    ],
+    "Category": "fantascienza e fantasy",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 23,
+    "Title": "veniam in ex",
+    "Author": "Imogene Vega",
+    "PublishingHouse": "Stockpost",
+    "Series": "enim",
+    "Picture": "http://nisi.it/aliqua",
+    "Price": "$45.73",
+    "PubblicationYear": 1500,
+    "Discount": 50,
+    "StorageDate": "2015-03-05",
+    "Availability": 24,
+    "Informations": [
+      {
+        "PagesCount": 46,
+        "IsHardCover": true,
+        "Description": "Lorem cillum est id magna reprehenderit commodo excepteur est culpa consequat fugiat. Labore sit velit duis ut eiusmod. Adipisicing excepteur ex fugiat mollit non.\r\n"
+      }
+    ],
+    "Category": "economia e management",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 24,
+    "Title": "ea et",
+    "Author": "Lee Mack",
+    "PublishingHouse": "Eclipsent",
+    "Series": "cillum esse",
+    "Picture": "http://mollit.it/et",
+    "Price": "$42.18",
+    "PubblicationYear": 178,
+    "Discount": 50,
+    "StorageDate": "2014-06-28",
+    "Availability": 53,
+    "Informations": [
+      {
+        "PagesCount": 656,
+        "IsHardCover": false,
+        "Description": "Elit eiusmod laborum est esse laboris amet reprehenderit proident officia occaecat in nisi mollit. Proident nisi commodo enim amet ut dolor aliqua. Enim eiusmod laborum consectetur enim culpa esse sit eiusmod eu. Duis ullamco enim consectetur pariatur aliquip incididunt elit laboris consequat ut occaecat.\r\n"
+      }
+    ],
+    "Category": "religiosi",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 25,
+    "Title": "culpa",
+    "Author": "Spears Wyatt",
+    "PublishingHouse": "Velos",
+    "Series": "labore",
+    "Picture": "http://magna.it/anim",
+    "Price": "$11.94",
+    "PubblicationYear": 1937,
+    "Discount": 25,
+    "StorageDate": "2017-09-29",
+    "Availability": 57,
+    "Informations": [
+      {
+        "PagesCount": 924,
+        "IsHardCover": false,
+        "Description": "Nostrud cillum do amet minim commodo anim tempor consectetur cupidatat reprehenderit adipisicing eu enim Lorem. Excepteur qui culpa commodo proident elit nisi consectetur reprehenderit officia reprehenderit reprehenderit. Amet veniam mollit commodo eu aliquip aliqua elit anim culpa quis adipisicing in et.\r\n"
+      }
+    ],
+    "Category": "sport",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 26,
+    "Title": "irure ut pariatur cupidatat quis",
+    "Author": "Beverly Kelley",
+    "PublishingHouse": "Fuelton",
+    "Series": "nisi ullamco",
+    "Picture": "http://aliqua.it/dolore",
+    "Price": "$41.81",
+    "PubblicationYear": 632,
+    "Discount": 20,
+    "StorageDate": "2011-06-11",
+    "Availability": 0,
+    "Informations": [
+      {
+        "PagesCount": 826,
+        "IsHardCover": true,
+        "Description": "Eiusmod fugiat nostrud eu velit ad sint. Ea exercitation et dolore quis dolor ut est adipisicing. Ex excepteur dolore nisi sunt proident qui incididunt.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 27,
+    "Title": "sit tempor esse ad",
+    "Author": "Reba Rowe",
+    "PublishingHouse": "Motovate",
+    "Series": "nostrud",
+    "Picture": "http://ad.it/consectetur",
+    "Price": "$30.73",
+    "PubblicationYear": 1543,
+    "Discount": 0,
+    "StorageDate": "2013-04-08",
+    "Availability": 39,
+    "Informations": [
+      {
+        "PagesCount": 832,
+        "IsHardCover": false,
+        "Description": "Proident laboris commodo proident enim aliqua labore enim irure excepteur qui ut ex. Dolor ullamco ea laborum aliqua ipsum sit tempor irure et nisi sit. Do ut nisi voluptate ea quis magna sit eiusmod duis Lorem in minim ea culpa.\r\n"
+      }
+    ],
+    "Category": "architettura e urbanistica",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 28,
+    "Title": "consectetur deserunt",
+    "Author": "Dorothy Fitzpatrick",
+    "PublishingHouse": "Qualitex",
+    "Series": "nulla",
+    "Picture": "http://dolore.it/nisi",
+    "Price": "$19.36",
+    "PubblicationYear": 1349,
+    "Discount": 25,
+    "StorageDate": "2015-04-02",
+    "Availability": 56,
+    "Informations": [
+      {
+        "PagesCount": 377,
+        "IsHardCover": false,
+        "Description": "Id velit ex nostrud excepteur eu deserunt cillum. Fugiat velit aute magna dolor esse adipisicing duis Lorem veniam cillum. Ex irure eu exercitation duis irure ipsum consequat velit aliquip duis. Commodo laborum fugiat ex qui eu aliquip id. Tempor aliquip anim in aliquip proident cillum est exercitation ipsum sit mollit velit culpa cillum. Elit esse incididunt pariatur proident ullamco minim.\r\n"
+      }
+    ],
+    "Category": "economia e management",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 29,
+    "Title": "nostrud amet nostrud cillum",
+    "Author": "Lilly Washington",
+    "PublishingHouse": "Namegen",
+    "Series": "duis Lorem",
+    "Picture": "http://officia.it/officia",
+    "Price": "$19.62",
+    "PubblicationYear": 182,
+    "Discount": 25,
+    "StorageDate": "2016-09-20",
+    "Availability": 45,
+    "Informations": [
+      {
+        "PagesCount": 931,
+        "IsHardCover": false,
+        "Description": "Aute excepteur qui nisi qui. Magna minim dolore laborum est mollit consequat quis dolore id labore commodo reprehenderit eiusmod adipisicing. Exercitation esse ullamco fugiat laborum ut elit exercitation et ipsum.\r\n"
+      }
+    ],
+    "Category": "classici greci e latini",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 30,
+    "Title": "sint irure culpa",
+    "Author": "Esther Romero",
+    "PublishingHouse": "Austech",
+    "Series": "duis sint",
+    "Picture": "http://ea.it/minim",
+    "Price": "$38.93",
+    "PubblicationYear": 1637,
+    "Discount": 50,
+    "StorageDate": "2011-12-30",
+    "Availability": 50,
+    "Informations": [
+      {
+        "PagesCount": 709,
+        "IsHardCover": true,
+        "Description": "Velit non minim tempor culpa voluptate qui ea quis pariatur. Nisi ut qui mollit aliqua laborum anim non. Dolore ea anim id est quis quis id anim est.\r\n"
+      }
+    ],
+    "Category": "fumetti",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 31,
+    "Title": "laborum incididunt ex",
+    "Author": "Graves Cotton",
+    "PublishingHouse": "Biolive",
+    "Series": "nulla",
+    "Picture": "http://quis.it/voluptate",
+    "Price": "$30.93",
+    "PubblicationYear": 32,
+    "Discount": 50,
+    "StorageDate": "2014-11-30",
+    "Availability": 41,
+    "Informations": [
+      {
+        "PagesCount": 674,
+        "IsHardCover": false,
+        "Description": "Aliquip nostrud et est minim. Velit qui voluptate aliqua nulla anim excepteur eiusmod cupidatat. Quis culpa quis aliqua elit id anim adipisicing eiusmod. Pariatur minim laborum sit aute nulla deserunt nisi irure nisi labore aute est. Nostrud proident non ullamco commodo ex consectetur reprehenderit nostrud laborum minim laboris in ea esse. Sint sunt irure nulla ullamco adipisicing nulla nulla aute. Nostrud sit elit ea aliqua laborum minim anim.\r\n"
+      }
+    ],
+    "Category": "economia e management",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 32,
+    "Title": "adipisicing ipsum anim eiusmod proident",
+    "Author": "Barnes William",
+    "PublishingHouse": "Techmania",
+    "Series": "est",
+    "Picture": "http://cupidatat.it/ut",
+    "Price": "$42.41",
+    "PubblicationYear": 1579,
+    "Discount": 20,
+    "StorageDate": "2012-01-26",
+    "Availability": 4,
+    "Informations": [
+      {
+        "PagesCount": 921,
+        "IsHardCover": true,
+        "Description": "Reprehenderit nulla ea excepteur ex ipsum aliqua. Ea qui cillum eiusmod adipisicing. Laboris reprehenderit eiusmod cillum aliquip non quis voluptate ex cupidatat non. Deserunt ex officia et duis consectetur. Deserunt labore in ullamco magna occaecat nisi veniam aliquip deserunt consectetur nulla exercitation velit ipsum. Sunt occaecat dolore nostrud laborum ad do aute quis labore excepteur excepteur ut.\r\n"
+      }
+    ],
+    "Category": "gialli",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 33,
+    "Title": "fugiat velit occaecat",
+    "Author": "Bethany Dickerson",
+    "PublishingHouse": "Gogol",
+    "Series": "et",
+    "Picture": "http://excepteur.it/dolor",
+    "Price": "$33.97",
+    "PubblicationYear": 927,
+    "Discount": 20,
+    "StorageDate": "2014-06-12",
+    "Availability": 39,
+    "Informations": [
+      {
+        "PagesCount": 598,
+        "IsHardCover": false,
+        "Description": "Dolor Lorem aliqua ullamco reprehenderit exercitation aliquip commodo exercitation. Sit cupidatat excepteur dolor dolore do laborum consectetur cupidatat proident qui voluptate. Aute non ea sunt consectetur proident cillum. Excepteur velit ullamco magna officia dolore nulla ex irure. Ullamco deserunt duis pariatur ut proident laboris sunt nulla excepteur exercitation sint. Laboris est dolor nulla fugiat do exercitation excepteur. Reprehenderit excepteur incididunt cupidatat enim quis deserunt ex veniam pariatur.\r\n"
+      }
+    ],
+    "Category": "arte",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 34,
+    "Title": "incididunt duis",
+    "Author": "Lindsay Holmes",
+    "PublishingHouse": "Datacator",
+    "Series": "reprehenderit cillum",
+    "Picture": "http://quis.it/consectetur",
+    "Price": "$44.37",
+    "PubblicationYear": 1508,
+    "Discount": 0,
+    "StorageDate": "2017-11-09",
+    "Availability": 7,
+    "Informations": [
+      {
+        "PagesCount": 925,
+        "IsHardCover": false,
+        "Description": "Exercitation dolore nisi quis dolore anim. Voluptate occaecat nisi dolore velit aute ad nisi excepteur. Commodo consectetur eu proident quis eiusmod excepteur Lorem. Ipsum ut ipsum aliquip veniam anim anim ad.\r\n"
+      }
+    ],
+    "Category": "architettura e urbanistica",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 35,
+    "Title": "occaecat laboris qui",
+    "Author": "Jillian Evans",
+    "PublishingHouse": "Comtest",
+    "Series": "consequat",
+    "Picture": "http://minim.it/est",
+    "Price": "$48.53",
+    "PubblicationYear": 1367,
+    "Discount": 0,
+    "StorageDate": "2013-08-27",
+    "Availability": 1,
+    "Informations": [
+      {
+        "PagesCount": 962,
+        "IsHardCover": true,
+        "Description": "Occaecat cupidatat enim aliqua quis in mollit laboris amet voluptate ullamco minim cupidatat laboris commodo. Nisi veniam aliqua sit pariatur et. Labore culpa esse cupidatat mollit anim excepteur ad anim laborum irure voluptate esse cupidatat. Cupidatat cillum irure adipisicing incididunt aliqua. Ipsum aliquip in quis laborum dolor laborum nostrud laborum adipisicing. Dolore ullamco et nisi laboris occaecat aute.\r\n"
+      }
+    ],
+    "Category": "classici greci e latini",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 36,
+    "Title": "est",
+    "Author": "Yesenia Marquez",
+    "PublishingHouse": "Solgan",
+    "Series": "velit",
+    "Picture": "http://aliqua.it/exercitation",
+    "Price": "$37.71",
+    "PubblicationYear": 1538,
+    "Discount": 25,
+    "StorageDate": "2018-03-22",
+    "Availability": 20,
+    "Informations": [
+      {
+        "PagesCount": 586,
+        "IsHardCover": false,
+        "Description": "Irure officia do commodo occaecat aliqua culpa quis. Ut elit amet elit velit id proident minim do. In officia officia laborum elit magna labore veniam velit magna aute cillum do. Reprehenderit sit voluptate officia laborum ex incididunt nisi duis anim irure reprehenderit est commodo nulla. Et esse sit laboris commodo laboris id veniam voluptate reprehenderit enim quis culpa. Voluptate laborum ipsum in consectetur eiusmod consectetur duis nulla reprehenderit do reprehenderit excepteur. In fugiat nisi enim tempor commodo elit fugiat est ea proident.\r\n"
+      }
+    ],
+    "Category": "classici greci e latini",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 37,
+    "Title": "velit enim laborum cupidatat id",
+    "Author": "Lynn Norman",
+    "PublishingHouse": "Entogrok",
+    "Series": "excepteur",
+    "Picture": "http://esse.it/proident",
+    "Price": "$1.35",
+    "PubblicationYear": 693,
+    "Discount": 25,
+    "StorageDate": "2017-05-13",
+    "Availability": 48,
+    "Informations": [
+      {
+        "PagesCount": 466,
+        "IsHardCover": true,
+        "Description": "Amet fugiat id sit voluptate eiusmod pariatur proident eu fugiat. Voluptate eiusmod ullamco nulla proident consectetur occaecat commodo nisi. Duis Lorem in laborum eu. Nostrud consequat in qui nisi ullamco ad dolor laborum sint aliquip aliquip ullamco amet magna. Exercitation eu qui excepteur do labore laboris ex excepteur nostrud aute irure sit. Ut qui amet et consequat quis magna occaecat Lorem irure exercitation anim laboris ea. Amet sunt dolor ullamco ut quis commodo proident pariatur pariatur culpa adipisicing.\r\n"
+      }
+    ],
+    "Category": "diritto",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 38,
+    "Title": "in eu in",
+    "Author": "York Finch",
+    "PublishingHouse": "Biohab",
+    "Series": "in ea",
+    "Picture": "http://aliqua.it/minim",
+    "Price": "$31.21",
+    "PubblicationYear": 232,
+    "Discount": 20,
+    "StorageDate": "2015-09-01",
+    "Availability": 33,
+    "Informations": [
+      {
+        "PagesCount": 902,
+        "IsHardCover": false,
+        "Description": "Irure ex et Lorem elit in esse adipisicing officia esse officia dolore tempor. Sit deserunt magna nulla enim aliquip. Do amet sint nisi aliquip eu. Fugiat velit deserunt mollit enim aute dolore reprehenderit aliqua.\r\n"
+      }
+    ],
+    "Category": "gialli",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 39,
+    "Title": "ullamco dolor dolor",
+    "Author": "Minnie Pickett",
+    "PublishingHouse": "Gynk",
+    "Series": "adipisicing",
+    "Picture": "http://ea.it/veniam",
+    "Price": "$6.71",
+    "PubblicationYear": 1798,
+    "Discount": 0,
+    "StorageDate": "2016-11-14",
+    "Availability": 46,
+    "Informations": [
+      {
+        "PagesCount": 48,
+        "IsHardCover": true,
+        "Description": "Cillum consectetur sunt ea in cupidatat consectetur. Voluptate minim cillum dolor labore aute. Consectetur nisi occaecat dolore officia do. Proident culpa fugiat commodo nulla veniam excepteur fugiat eiusmod magna dolor nulla nulla. Sunt cupidatat est sit occaecat aliqua aliqua pariatur officia eiusmod nulla tempor velit. Sint ad ullamco magna do pariatur officia voluptate ipsum officia labore deserunt consequat aute.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 40,
+    "Title": "est non fugiat nulla officia",
+    "Author": "Fannie Acevedo",
+    "PublishingHouse": "Vixo",
+    "Series": "sint",
+    "Picture": "http://commodo.it/ea",
+    "Price": "$8.83",
+    "PubblicationYear": 96,
+    "Discount": 25,
+    "StorageDate": "2016-01-10",
+    "Availability": 37,
+    "Informations": [
+      {
+        "PagesCount": 410,
+        "IsHardCover": false,
+        "Description": "Eu id commodo culpa nostrud ea duis ea ex deserunt. Qui duis officia irure mollit exercitation sit fugiat consequat laborum dolore laboris proident dolore labore. Esse anim ad incididunt nostrud in dolor nostrud. Deserunt proident ipsum sit quis adipisicing do. Duis eiusmod pariatur esse cillum laboris commodo nisi duis culpa non incididunt proident. In mollit consequat do minim amet culpa ut. Aute tempor esse exercitation veniam amet.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 41,
+    "Title": "aute consectetur qui proident nostrud",
+    "Author": "Letitia Barton",
+    "PublishingHouse": "Nixelt",
+    "Series": "consectetur",
+    "Picture": "http://consequat.it/eiusmod",
+    "Price": "$22.29",
+    "PubblicationYear": 1365,
+    "Discount": 50,
+    "StorageDate": "2014-09-15",
+    "Availability": 17,
+    "Informations": [
+      {
+        "PagesCount": 780,
+        "IsHardCover": false,
+        "Description": "Qui nulla adipisicing laborum duis adipisicing ex. Irure duis veniam aute laborum do laboris pariatur id in cillum sint et elit. Exercitation velit est ipsum culpa. Sit exercitation in est officia voluptate fugiat exercitation anim qui elit elit. Consequat consequat consectetur enim incididunt.\r\n"
+      }
+    ],
+    "Category": "diritto",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 42,
+    "Title": "enim occaecat",
+    "Author": "Dunn Jacobson",
+    "PublishingHouse": "Temorak",
+    "Series": "excepteur",
+    "Picture": "http://incididunt.it/irure",
+    "Price": "$17.19",
+    "PubblicationYear": 1816,
+    "Discount": 25,
+    "StorageDate": "2017-10-22",
+    "Availability": 27,
+    "Informations": [
+      {
+        "PagesCount": 189,
+        "IsHardCover": false,
+        "Description": "Adipisicing deserunt consequat occaecat aute nisi voluptate laboris. Ut dolore tempor excepteur est pariatur sunt Lorem. Laboris est aliqua cupidatat sunt sunt consequat reprehenderit commodo esse in magna nisi culpa. Elit eiusmod id ad pariatur qui aliquip. Excepteur enim adipisicing nulla nisi occaecat mollit labore fugiat minim dolor laborum. Nulla consectetur commodo est veniam non sunt id laboris dolor aliquip commodo occaecat velit cupidatat. Commodo eu minim voluptate do nulla sit excepteur duis veniam veniam occaecat deserunt sit mollit.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 43,
+    "Title": "nostrud cupidatat amet cupidatat reprehenderit",
+    "Author": "George Rodgers",
+    "PublishingHouse": "Empirica",
+    "Series": "proident amet",
+    "Picture": "http://et.it/qui",
+    "Price": "$8.99",
+    "PubblicationYear": 2005,
+    "Discount": 20,
+    "StorageDate": "2011-05-28",
+    "Availability": 46,
+    "Informations": [
+      {
+        "PagesCount": 790,
+        "IsHardCover": true,
+        "Description": "Aute est labore in ut et. Nostrud quis id elit anim non do veniam ad ea dolor velit non dolore. In ipsum ex occaecat reprehenderit sint incididunt consectetur est proident. Ullamco amet commodo excepteur Lorem Lorem do incididunt velit sit.\r\n"
+      }
+    ],
+    "Category": "filosofia",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 44,
+    "Title": "laborum do velit ex",
+    "Author": "Mccarty Macias",
+    "PublishingHouse": "Buzzworks",
+    "Series": "pariatur proident",
+    "Picture": "http://minim.it/aliqua",
+    "Price": "$42.80",
+    "PubblicationYear": 1437,
+    "Discount": 25,
+    "StorageDate": "2019-01-03",
+    "Availability": 35,
+    "Informations": [
+      {
+        "PagesCount": 52,
+        "IsHardCover": false,
+        "Description": "Ullamco cupidatat eiusmod qui nulla quis ex magna non officia laborum reprehenderit labore irure. Ut ex culpa commodo magna et nulla enim aute in. Ea nostrud sit exercitation officia ea id sint esse fugiat labore. Lorem consectetur cupidatat cillum non ad ad. Minim dolor qui ad esse. Lorem pariatur minim officia excepteur ut laboris. Ipsum incididunt elit tempor aliquip laborum ut eiusmod aliqua laboris reprehenderit ea ut enim.\r\n"
+      }
+    ],
+    "Category": "fantascienza e fantasy",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 45,
+    "Title": "ullamco dolor",
+    "Author": "Monica Rodriquez",
+    "PublishingHouse": "Elita",
+    "Series": "amet aliqua",
+    "Picture": "http://voluptate.it/nulla",
+    "Price": "$28.08",
+    "PubblicationYear": 577,
+    "Discount": 20,
+    "StorageDate": "2016-12-29",
+    "Availability": 58,
+    "Informations": [
+      {
+        "PagesCount": 1000,
+        "IsHardCover": false,
+        "Description": "Fugiat qui magna consectetur commodo culpa. Sunt esse deserunt non cupidatat eiusmod magna laboris nisi proident dolor et tempor do velit. Veniam nulla elit aute ipsum.\r\n"
+      }
+    ],
+    "Category": "economia e management",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 46,
+    "Title": "ipsum laboris",
+    "Author": "Laura Norton",
+    "PublishingHouse": "Interodeo",
+    "Series": "aute in",
+    "Picture": "http://elit.it/ipsum",
+    "Price": "$34.32",
+    "PubblicationYear": 723,
+    "Discount": 20,
+    "StorageDate": "2016-12-08",
+    "Availability": 42,
+    "Informations": [
+      {
+        "PagesCount": 651,
+        "IsHardCover": false,
+        "Description": "Ullamco quis excepteur reprehenderit proident deserunt eu id nulla sit do sunt nostrud culpa. Sit nisi anim ea deserunt consectetur fugiat Lorem exercitation commodo pariatur magna nisi pariatur. Est dolore aute ea ex magna ut culpa laboris consectetur cillum. Ad fugiat in voluptate fugiat Lorem ea do incididunt in commodo ad eu reprehenderit laborum. Aute id nisi incididunt consequat eiusmod ea.\r\n"
+      }
+    ],
+    "Category": "architettura e urbanistica",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 47,
+    "Title": "enim proident eu pariatur",
+    "Author": "Gamble Carey",
+    "PublishingHouse": "Immunics",
+    "Series": "fugiat enim",
+    "Picture": "http://veniam.it/commodo",
+    "Price": "$36.46",
+    "PubblicationYear": 1560,
+    "Discount": 20,
+    "StorageDate": "2016-04-12",
+    "Availability": 23,
+    "Informations": [
+      {
+        "PagesCount": 311,
+        "IsHardCover": true,
+        "Description": "Laborum amet dolor velit nulla irure velit est nisi labore culpa velit adipisicing. Laborum nostrud est commodo incididunt duis consectetur quis tempor dolore fugiat irure est est culpa. Aliquip exercitation amet dolore reprehenderit excepteur. Ullamco dolor aliquip aliqua ullamco labore fugiat commodo ea culpa aliquip ea exercitation elit adipisicing. Laboris exercitation ad laborum irure anim commodo do commodo ipsum. Magna et elit minim consequat laboris excepteur consectetur ad.\r\n"
+      }
+    ],
+    "Category": "fumetti",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 48,
+    "Title": "duis consequat sit cillum veniam",
+    "Author": "Snyder Finley",
+    "PublishingHouse": "Neurocell",
+    "Series": "cillum",
+    "Picture": "http://mollit.it/veniam",
+    "Price": "$15.53",
+    "PubblicationYear": 2006,
+    "Discount": 0,
+    "StorageDate": "2011-06-02",
+    "Availability": 20,
+    "Informations": [
+      {
+        "PagesCount": 310,
+        "IsHardCover": true,
+        "Description": "Ullamco sit amet sint veniam tempor consectetur aute ullamco esse. Ad velit laborum tempor ad voluptate laborum labore consectetur. Labore excepteur excepteur sit sint aliquip Lorem tempor mollit elit.\r\n"
+      }
+    ],
+    "Category": "architettura e urbanistica",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 49,
+    "Title": "nisi esse sint excepteur",
+    "Author": "Mia Lyons",
+    "PublishingHouse": "Zensus",
+    "Series": "anim",
+    "Picture": "http://veniam.it/aliquip",
+    "Price": "$40.48",
+    "PubblicationYear": 333,
+    "Discount": 0,
+    "StorageDate": "2011-12-12",
+    "Availability": 1,
+    "Informations": [
+      {
+        "PagesCount": 106,
+        "IsHardCover": false,
+        "Description": "Anim ut non aliqua quis consequat. Est ex dolore anim esse ullamco proident duis dolore Lorem. Commodo ut laborum magna irure excepteur dolore excepteur cillum esse id velit irure.\r\n"
+      }
+    ],
+    "Category": "classici greci e latini",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 50,
+    "Title": "fugiat laborum",
+    "Author": "Garcia Hopper",
+    "PublishingHouse": "Corepan",
+    "Series": "reprehenderit minim",
+    "Picture": "http://cupidatat.it/incididunt",
+    "Price": "$17.93",
+    "PubblicationYear": 1962,
+    "Discount": 25,
+    "StorageDate": "2014-02-16",
+    "Availability": 36,
+    "Informations": [
+      {
+        "PagesCount": 59,
+        "IsHardCover": false,
+        "Description": "Eu laborum enim sint sunt. Nulla veniam voluptate nisi dolore tempor Lorem proident occaecat tempor aliqua in mollit sint. Nisi culpa exercitation eu id laboris sunt non nisi voluptate mollit in incididunt. Laboris ullamco irure ipsum amet veniam exercitation mollit do laboris tempor officia aliqua. Laboris incididunt nulla deserunt mollit sunt do amet in. Magna ex aliquip irure ullamco eu exercitation laborum veniam magna esse ex exercitation pariatur. Culpa consequat ut est aute exercitation eiusmod eiusmod aute consectetur sit id ex Lorem et.\r\n"
+      }
+    ],
+    "Category": "classici greci e latini",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 51,
+    "Title": "Lorem irure sint",
+    "Author": "Hinton Logan",
+    "PublishingHouse": "Enerforce",
+    "Series": "laboris quis",
+    "Picture": "http://ea.it/aute",
+    "Price": "$30.20",
+    "PubblicationYear": 191,
+    "Discount": 50,
+    "StorageDate": "2018-06-27",
+    "Availability": 45,
+    "Informations": [
+      {
+        "PagesCount": 645,
+        "IsHardCover": false,
+        "Description": "Consequat dolor do est anim dolor laboris consectetur deserunt qui. Eu ullamco irure pariatur eiusmod. Tempor voluptate ex incididunt id est non. Commodo laboris mollit adipisicing sint magna ad enim aliquip dolore et voluptate do ipsum. Commodo ad esse dolore dolore irure nulla reprehenderit voluptate voluptate anim nisi. Tempor do amet ut laboris mollit nulla laborum laboris id voluptate culpa occaecat Lorem. Enim deserunt quis ut cillum laborum exercitation ad sunt ut in dolore laborum.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 52,
+    "Title": "non sit magna et",
+    "Author": "Maryanne Leonard",
+    "PublishingHouse": "Zanymax",
+    "Series": "labore",
+    "Picture": "http://aute.it/Lorem",
+    "Price": "$17.91",
+    "PubblicationYear": 533,
+    "Discount": 0,
+    "StorageDate": "2011-09-08",
+    "Availability": 22,
+    "Informations": [
+      {
+        "PagesCount": 214,
+        "IsHardCover": false,
+        "Description": "Elit Lorem tempor est et. Mollit quis ea pariatur reprehenderit aute amet consequat. Officia cupidatat nostrud quis tempor et officia ut. Cupidatat sint quis pariatur enim sunt pariatur sint irure proident veniam laborum non do id.\r\n"
+      }
+    ],
+    "Category": "arte",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 53,
+    "Title": "in deserunt et labore",
+    "Author": "Mullins Booker",
+    "PublishingHouse": "Geostele",
+    "Series": "eu nulla",
+    "Picture": "http://cupidatat.it/proident",
+    "Price": "$19.46",
+    "PubblicationYear": 1751,
+    "Discount": 25,
+    "StorageDate": "2017-02-10",
+    "Availability": 34,
+    "Informations": [
+      {
+        "PagesCount": 315,
+        "IsHardCover": true,
+        "Description": "Ad voluptate duis consectetur labore nulla dolore velit ex cupidatat pariatur ex. Voluptate cillum proident ipsum laboris officia nisi elit velit eiusmod. Esse reprehenderit est sunt minim qui. Commodo laboris minim velit ullamco est excepteur.\r\n"
+      }
+    ],
+    "Category": "architettura e urbanistica",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 54,
+    "Title": "cupidatat amet in ex consequat",
+    "Author": "Carver Talley",
+    "PublishingHouse": "Unq",
+    "Series": "fugiat",
+    "Picture": "http://excepteur.it/cillum",
+    "Price": "$6.10",
+    "PubblicationYear": 941,
+    "Discount": 0,
+    "StorageDate": "2015-04-13",
+    "Availability": 30,
+    "Informations": [
+      {
+        "PagesCount": 524,
+        "IsHardCover": false,
+        "Description": "Esse excepteur elit fugiat ea ad veniam. Elit irure officia in proident exercitation eu. Duis ipsum et consectetur est non ad dolor mollit quis in pariatur duis sint. In proident et cillum ex aliquip do nostrud ullamco.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 55,
+    "Title": "qui nisi consectetur proident",
+    "Author": "Mai Byers",
+    "PublishingHouse": "Cormoran",
+    "Series": "culpa velit",
+    "Picture": "http://labore.it/anim",
+    "Price": "$1.93",
+    "PubblicationYear": 1217,
+    "Discount": 20,
+    "StorageDate": "2012-01-14",
+    "Availability": 46,
+    "Informations": [
+      {
+        "PagesCount": 901,
+        "IsHardCover": false,
+        "Description": "Nisi laborum dolore magna magna aliqua officia excepteur magna labore mollit eu ipsum et. Voluptate voluptate ullamco ex eu culpa aute excepteur nostrud officia est commodo fugiat eiusmod. Velit ut proident adipisicing ad irure anim nulla. Anim quis aute ea culpa nulla amet deserunt velit minim enim qui veniam sint. Ut pariatur in id ad non voluptate id pariatur laboris.\r\n"
+      }
+    ],
+    "Category": "economia e management",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 56,
+    "Title": "proident incididunt occaecat",
+    "Author": "Schneider Cole",
+    "PublishingHouse": "Cyclonica",
+    "Series": "fugiat ad",
+    "Picture": "http://non.it/fugiat",
+    "Price": "$9.31",
+    "PubblicationYear": 1748,
+    "Discount": 0,
+    "StorageDate": "2015-01-09",
+    "Availability": 49,
+    "Informations": [
+      {
+        "PagesCount": 80,
+        "IsHardCover": true,
+        "Description": "Sint magna deserunt ea eu magna esse consectetur cillum nulla ad cillum nostrud. Magna sit mollit aute amet elit qui cupidatat cillum. Tempor esse exercitation minim proident proident id deserunt.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 57,
+    "Title": "deserunt",
+    "Author": "Stanley Knapp",
+    "PublishingHouse": "Netur",
+    "Series": "ad",
+    "Picture": "http://velit.it/tempor",
+    "Price": "$16.64",
+    "PubblicationYear": 1786,
+    "Discount": 20,
+    "StorageDate": "2018-06-16",
+    "Availability": 27,
+    "Informations": [
+      {
+        "PagesCount": 633,
+        "IsHardCover": true,
+        "Description": "Laborum laborum minim mollit incididunt quis nostrud ex aute exercitation consectetur nulla fugiat sit. Amet dolor fugiat tempor elit labore id excepteur dolor sunt ut aute. Adipisicing mollit officia aute ut aute nisi elit occaecat elit enim pariatur consequat id sint.\r\n"
+      }
+    ],
+    "Category": "sport",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 58,
+    "Title": "reprehenderit",
+    "Author": "Janelle Marshall",
+    "PublishingHouse": "Glasstep",
+    "Series": "aute cillum",
+    "Picture": "http://eiusmod.it/ex",
+    "Price": "$27.34",
+    "PubblicationYear": 748,
+    "Discount": 20,
+    "StorageDate": "2012-02-13",
+    "Availability": 44,
+    "Informations": [
+      {
+        "PagesCount": 506,
+        "IsHardCover": false,
+        "Description": "Sint do fugiat et voluptate voluptate commodo amet tempor. Laborum labore eiusmod labore magna eu sit. Anim tempor amet nostrud incididunt aliquip officia ut labore sint elit. Labore aliqua amet nisi consequat ipsum Lorem esse commodo in esse consectetur ut ex enim.\r\n"
+      }
+    ],
+    "Category": "architettura e urbanistica",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 59,
+    "Title": "sint sint consectetur reprehenderit exercitation",
+    "Author": "Bryan Watson",
+    "PublishingHouse": "Talkola",
+    "Series": "proident",
+    "Picture": "http://laboris.it/proident",
+    "Price": "$16.55",
+    "PubblicationYear": 675,
+    "Discount": 25,
+    "StorageDate": "2010-12-31",
+    "Availability": 12,
+    "Informations": [
+      {
+        "PagesCount": 237,
+        "IsHardCover": false,
+        "Description": "Enim magna culpa qui qui enim commodo. Commodo adipisicing qui labore consectetur Lorem elit. Aliquip adipisicing velit nisi laborum consectetur.\r\n"
+      }
+    ],
+    "Category": "arte",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 60,
+    "Title": "velit sint",
+    "Author": "Gabriela Caldwell",
+    "PublishingHouse": "Photobin",
+    "Series": "adipisicing veniam",
+    "Picture": "http://cupidatat.it/ad",
+    "Price": "$12.76",
+    "PubblicationYear": 98,
+    "Discount": 50,
+    "StorageDate": "2017-12-13",
+    "Availability": 1,
+    "Informations": [
+      {
+        "PagesCount": 375,
+        "IsHardCover": true,
+        "Description": "Aliqua voluptate id voluptate ad laborum id do commodo ex velit nostrud. Labore sunt dolore non pariatur proident exercitation in enim. Sint ex adipisicing aliqua ad dolor magna Lorem id id est aute do eu cillum. Tempor est adipisicing Lorem proident dolor elit ea dolore eu minim eu id magna. Ipsum qui reprehenderit sint aliquip elit dolor nulla amet anim. Reprehenderit culpa aute pariatur magna aliquip ipsum irure labore.\r\n"
+      }
+    ],
+    "Category": "arte",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 61,
+    "Title": "Lorem ea nulla nostrud incididunt",
+    "Author": "Bentley Zamora",
+    "PublishingHouse": "Retrack",
+    "Series": "ad",
+    "Picture": "http://tempor.it/laboris",
+    "Price": "$7.72",
+    "PubblicationYear": 1851,
+    "Discount": 50,
+    "StorageDate": "2012-09-22",
+    "Availability": 35,
+    "Informations": [
+      {
+        "PagesCount": 813,
+        "IsHardCover": false,
+        "Description": "Deserunt nostrud in fugiat exercitation excepteur ipsum. Ipsum officia sint nulla deserunt esse. Fugiat irure labore pariatur dolor aute pariatur ut magna amet voluptate Lorem fugiat labore laboris. Aliquip incididunt cupidatat non aliquip ex aliqua excepteur pariatur adipisicing. Nisi excepteur elit ex ad mollit reprehenderit Lorem deserunt laborum incididunt ea aliquip officia.\r\n"
+      }
+    ],
+    "Category": "filosofia",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 62,
+    "Title": "officia ea cillum",
+    "Author": "Foster Hubbard",
+    "PublishingHouse": "Earthplex",
+    "Series": "ea irure",
+    "Picture": "http://veniam.it/mollit",
+    "Price": "$22.06",
+    "PubblicationYear": 1695,
+    "Discount": 0,
+    "StorageDate": "2017-06-29",
+    "Availability": 26,
+    "Informations": [
+      {
+        "PagesCount": 98,
+        "IsHardCover": false,
+        "Description": "Excepteur aliquip aliquip irure et nulla elit. Labore velit enim Lorem elit adipisicing ullamco consectetur Lorem magna officia ex eu aliquip mollit. Ipsum do est ullamco magna anim do labore consequat reprehenderit. Dolor laboris exercitation tempor proident amet aliqua ad fugiat enim velit ipsum est. Et irure eu aute velit do do. Ipsum commodo irure deserunt qui aute laboris non irure ullamco aliquip enim amet. Exercitation do ullamco deserunt adipisicing ut do veniam mollit qui Lorem tempor veniam anim cupidatat.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 63,
+    "Title": "duis dolor id",
+    "Author": "Rosemarie Sheppard",
+    "PublishingHouse": "Cytrek",
+    "Series": "ea",
+    "Picture": "http://veniam.it/nostrud",
+    "Price": "$37.69",
+    "PubblicationYear": 497,
+    "Discount": 0,
+    "StorageDate": "2017-07-26",
+    "Availability": 36,
+    "Informations": [
+      {
+        "PagesCount": 815,
+        "IsHardCover": false,
+        "Description": "Magna consectetur Lorem sit enim aute consectetur ut consequat. Officia ad veniam Lorem occaecat in ullamco labore aliquip anim incididunt officia. Elit et et duis labore ipsum tempor. Ad qui voluptate laborum et cillum consectetur amet aliquip dolor nisi. Lorem ex ea ipsum anim. Sunt cupidatat esse deserunt duis tempor laborum anim consequat exercitation duis elit voluptate enim ex.\r\n"
+      }
+    ],
+    "Category": "classici greci e latini",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 64,
+    "Title": "eu commodo exercitation",
+    "Author": "Macdonald Ewing",
+    "PublishingHouse": "Inear",
+    "Series": "amet",
+    "Picture": "http://quis.it/cillum",
+    "Price": "$8.42",
+    "PubblicationYear": 522,
+    "Discount": 50,
+    "StorageDate": "2012-08-17",
+    "Availability": 36,
+    "Informations": [
+      {
+        "PagesCount": 37,
+        "IsHardCover": false,
+        "Description": "Reprehenderit labore sit labore est ipsum non officia. Veniam adipisicing ut sint reprehenderit aliquip. Cillum eu ipsum aute adipisicing exercitation in est commodo occaecat elit cupidatat laboris et.\r\n"
+      }
+    ],
+    "Category": "fumetti",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 65,
+    "Title": "eu pariatur",
+    "Author": "Kristen Pena",
+    "PublishingHouse": "Nurali",
+    "Series": "anim",
+    "Picture": "http://proident.it/laboris",
+    "Price": "$16.03",
+    "PubblicationYear": 590,
+    "Discount": 20,
+    "StorageDate": "2016-02-24",
+    "Availability": 3,
+    "Informations": [
+      {
+        "PagesCount": 383,
+        "IsHardCover": true,
+        "Description": "Ex labore esse cillum magna proident enim adipisicing duis irure. In irure quis nisi do amet. Eiusmod ut voluptate est commodo cupidatat cupidatat esse magna do labore sint. Eiusmod consectetur ullamco magna qui adipisicing ea aute aute anim pariatur. Cillum duis culpa nostrud tempor est. In sint cillum aliqua commodo aute officia reprehenderit ea pariatur voluptate. Minim occaecat excepteur adipisicing est ad ad.\r\n"
+      }
+    ],
+    "Category": "diritto",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 66,
+    "Title": "ad Lorem aliquip duis mollit",
+    "Author": "Colon Strickland",
+    "PublishingHouse": "Biospan",
+    "Series": "eu",
+    "Picture": "http://consequat.it/minim",
+    "Price": "$7.80",
+    "PubblicationYear": 956,
+    "Discount": 20,
+    "StorageDate": "2011-03-11",
+    "Availability": 31,
+    "Informations": [
+      {
+        "PagesCount": 851,
+        "IsHardCover": true,
+        "Description": "Ut dolor Lorem Lorem non laboris do adipisicing ad. Nulla elit qui duis ad laboris irure ex ea do excepteur labore pariatur eu. Ut cupidatat duis in occaecat adipisicing. Tempor culpa exercitation velit ut officia tempor laboris aute laboris. Tempor amet Lorem elit do deserunt qui adipisicing ullamco enim id. Tempor cillum occaecat dolor et labore qui eu consequat magna. Pariatur tempor eiusmod velit pariatur magna aliqua id excepteur tempor ullamco ut.\r\n"
+      }
+    ],
+    "Category": "architettura e urbanistica",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 67,
+    "Title": "aute",
+    "Author": "Willa Kim",
+    "PublishingHouse": "Fortean",
+    "Series": "fugiat",
+    "Picture": "http://amet.it/culpa",
+    "Price": "$45.63",
+    "PubblicationYear": 268,
+    "Discount": 20,
+    "StorageDate": "2018-08-28",
+    "Availability": 38,
+    "Informations": [
+      {
+        "PagesCount": 78,
+        "IsHardCover": true,
+        "Description": "Ea minim voluptate labore veniam excepteur quis quis ex aute qui Lorem mollit cupidatat velit. Aliquip exercitation deserunt aute consequat pariatur consectetur. Sit sunt culpa nulla qui eu amet elit dolor. Sit nisi quis nostrud laboris laborum. Fugiat magna est anim dolor cillum aliqua consectetur dolor. Ipsum pariatur incididunt nisi magna est cupidatat occaecat amet proident commodo sunt velit.\r\n"
+      }
+    ],
+    "Category": "religiosi",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 68,
+    "Title": "mollit elit esse in",
+    "Author": "Odonnell Stokes",
+    "PublishingHouse": "Accel",
+    "Series": "et",
+    "Picture": "http://magna.it/culpa",
+    "Price": "$44.66",
+    "PubblicationYear": 484,
+    "Discount": 25,
+    "StorageDate": "2010-09-29",
+    "Availability": 37,
+    "Informations": [
+      {
+        "PagesCount": 206,
+        "IsHardCover": false,
+        "Description": "Incididunt labore magna excepteur sunt culpa commodo. Anim in ex ullamco dolore voluptate ex. Cillum cillum occaecat aliquip ipsum ea adipisicing fugiat sint in ipsum eu Lorem veniam. Proident officia Lorem eu sunt reprehenderit velit occaecat sint. Velit voluptate enim exercitation anim elit proident irure irure dolore ex nulla amet. Excepteur fugiat et labore aliquip cupidatat veniam.\r\n"
+      }
+    ],
+    "Category": "diritto",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 69,
+    "Title": "magna sit aliquip",
+    "Author": "Velasquez Sargent",
+    "PublishingHouse": "Calcu",
+    "Series": "labore deserunt",
+    "Picture": "http://ex.it/cillum",
+    "Price": "$49.26",
+    "PubblicationYear": 1719,
+    "Discount": 20,
+    "StorageDate": "2011-12-18",
+    "Availability": 15,
+    "Informations": [
+      {
+        "PagesCount": 431,
+        "IsHardCover": true,
+        "Description": "Veniam aliqua adipisicing officia aute sit qui incididunt culpa consequat deserunt enim aliquip laboris do. Est cupidatat proident est eu in. Proident ex dolore incididunt sint commodo consectetur id et fugiat minim sit aliquip irure. Eiusmod Lorem enim elit consequat ea nisi aute excepteur quis elit velit reprehenderit.\r\n"
+      }
+    ],
+    "Category": "architettura e urbanistica",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 70,
+    "Title": "excepteur",
+    "Author": "Frye Mcguire",
+    "PublishingHouse": "Corecom",
+    "Series": "magna",
+    "Picture": "http://laborum.it/quis",
+    "Price": "$4.15",
+    "PubblicationYear": 1202,
+    "Discount": 50,
+    "StorageDate": "2018-02-19",
+    "Availability": 26,
+    "Informations": [
+      {
+        "PagesCount": 98,
+        "IsHardCover": true,
+        "Description": "Adipisicing exercitation officia anim ea eiusmod aliquip elit laborum occaecat magna sunt officia reprehenderit. Ex nostrud pariatur anim ea. Veniam irure ullamco laboris est Lorem amet officia velit et et. Labore reprehenderit dolor excepteur pariatur voluptate esse cillum excepteur laborum. Ipsum esse nisi esse aliqua eiusmod qui ut dolore adipisicing. Ipsum pariatur cupidatat deserunt anim. Deserunt ullamco laborum reprehenderit officia non cupidatat id mollit elit ex dolor.\r\n"
+      }
+    ],
+    "Category": "sport",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 71,
+    "Title": "quis",
+    "Author": "Louella Osborne",
+    "PublishingHouse": "Quilch",
+    "Series": "officia irure",
+    "Picture": "http://proident.it/Lorem",
+    "Price": "$47.36",
+    "PubblicationYear": 1902,
+    "Discount": 25,
+    "StorageDate": "2010-11-24",
+    "Availability": 13,
+    "Informations": [
+      {
+        "PagesCount": 327,
+        "IsHardCover": true,
+        "Description": "Laboris proident culpa proident ipsum eiusmod veniam laborum sit irure occaecat. Ipsum voluptate id Lorem occaecat elit velit sint commodo. Eiusmod veniam irure minim adipisicing dolor minim excepteur in. Proident cillum dolore minim in do sit proident aliqua dolore.\r\n"
+      }
+    ],
+    "Category": "classici greci e latini",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 72,
+    "Title": "qui consectetur",
+    "Author": "Warren Keller",
+    "PublishingHouse": "Unia",
+    "Series": "est commodo",
+    "Picture": "http://proident.it/pariatur",
+    "Price": "$15.27",
+    "PubblicationYear": 515,
+    "Discount": 50,
+    "StorageDate": "2013-04-03",
+    "Availability": 19,
+    "Informations": [
+      {
+        "PagesCount": 354,
+        "IsHardCover": true,
+        "Description": "Exercitation occaecat non exercitation in sunt consequat ad cupidatat ad voluptate anim officia dolor do. Dolor nostrud in ipsum eiusmod culpa et id id sunt amet. Voluptate sint in proident minim amet dolor ea voluptate est anim enim mollit laborum. Laborum aliqua amet dolore duis. Aliqua dolore sunt ea exercitation id mollit proident nisi. In ullamco non reprehenderit quis eu.\r\n"
+      }
+    ],
+    "Category": "diritto",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 73,
+    "Title": "ullamco duis do ex enim",
+    "Author": "Patty Atkins",
+    "PublishingHouse": "Endipin",
+    "Series": "magna",
+    "Picture": "http://Lorem.it/nisi",
+    "Price": "$30.55",
+    "PubblicationYear": 669,
+    "Discount": 0,
+    "StorageDate": "2012-11-11",
+    "Availability": 2,
+    "Informations": [
+      {
+        "PagesCount": 121,
+        "IsHardCover": false,
+        "Description": "Qui quis deserunt pariatur enim eu sunt voluptate magna tempor esse ut non. Amet esse aute adipisicing esse ad qui. Fugiat qui eu officia nostrud. Nulla dolor nulla enim proident. Irure velit do veniam consectetur.\r\n"
+      }
+    ],
+    "Category": "economia e management",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 74,
+    "Title": "cupidatat fugiat officia dolore commodo",
+    "Author": "Madden Jacobs",
+    "PublishingHouse": "Goko",
+    "Series": "in",
+    "Picture": "http://et.it/labore",
+    "Price": "$3.53",
+    "PubblicationYear": 375,
+    "Discount": 0,
+    "StorageDate": "2011-12-07",
+    "Availability": 28,
+    "Informations": [
+      {
+        "PagesCount": 559,
+        "IsHardCover": true,
+        "Description": "Magna elit laboris esse proident. Cupidatat occaecat laboris pariatur eu Lorem nostrud dolore. Pariatur anim mollit sit quis mollit. Irure non cillum qui incididunt sint laboris excepteur mollit veniam nisi in ad. Id non elit exercitation veniam laborum deserunt commodo proident. Est magna culpa eu voluptate et officia consectetur exercitation anim magna officia dolor id reprehenderit. Aute ex dolor cupidatat ex veniam nulla magna.\r\n"
+      }
+    ],
+    "Category": "fumetti",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 75,
+    "Title": "amet nisi voluptate minim aliquip",
+    "Author": "Dalton Moody",
+    "PublishingHouse": "Playce",
+    "Series": "non adipisicing",
+    "Picture": "http://ullamco.it/amet",
+    "Price": "$23.27",
+    "PubblicationYear": 54,
+    "Discount": 50,
+    "StorageDate": "2012-06-04",
+    "Availability": 35,
+    "Informations": [
+      {
+        "PagesCount": 864,
+        "IsHardCover": true,
+        "Description": "Id elit eiusmod est dolore aliqua ad enim consectetur do aute. Ullamco tempor ut eiusmod nulla Lorem ullamco est sit ad consectetur consequat. Sunt ad laboris esse fugiat Lorem cupidatat fugiat sint mollit veniam exercitation. Eu ut consectetur ipsum nisi ad enim culpa commodo exercitation ipsum ex.\r\n"
+      }
+    ],
+    "Category": "diritto",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 76,
+    "Title": "ex sit",
+    "Author": "Liza Gonzalez",
+    "PublishingHouse": "Imkan",
+    "Series": "ea ut",
+    "Picture": "http://exercitation.it/minim",
+    "Price": "$40.25",
+    "PubblicationYear": 1156,
+    "Discount": 50,
+    "StorageDate": "2010-09-11",
+    "Availability": 52,
+    "Informations": [
+      {
+        "PagesCount": 749,
+        "IsHardCover": false,
+        "Description": "Laboris occaecat excepteur cillum consequat magna ipsum mollit amet cupidatat aliqua magna. Ex excepteur dolor qui proident labore dolor consequat sit nostrud quis. Est aliquip dolor officia labore consectetur dolor. Pariatur culpa minim adipisicing minim esse. Dolore in nisi adipisicing nulla aute ex adipisicing reprehenderit. Proident ad tempor fugiat culpa veniam velit do aliquip reprehenderit.\r\n"
+      }
+    ],
+    "Category": "architettura e urbanistica",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 77,
+    "Title": "mollit irure nulla nulla ad",
+    "Author": "Henry Downs",
+    "PublishingHouse": "Ecosys",
+    "Series": "qui adipisicing",
+    "Picture": "http://esse.it/reprehenderit",
+    "Price": "$15.50",
+    "PubblicationYear": 1718,
+    "Discount": 0,
+    "StorageDate": "2011-12-14",
+    "Availability": 5,
+    "Informations": [
+      {
+        "PagesCount": 798,
+        "IsHardCover": true,
+        "Description": "Aliqua nulla adipisicing id dolore do quis veniam nisi voluptate sunt irure anim. Officia magna cupidatat occaecat et veniam velit deserunt in nostrud est deserunt tempor. Elit in qui elit nisi. Commodo eu Lorem fugiat mollit magna enim aliquip. Sunt incididunt minim excepteur do eiusmod eu officia anim ullamco.\r\n"
+      }
+    ],
+    "Category": "sport",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 78,
+    "Title": "voluptate",
+    "Author": "Allen Morrison",
+    "PublishingHouse": "Kangle",
+    "Series": "do",
+    "Picture": "http://officia.it/proident",
+    "Price": "$6.31",
+    "PubblicationYear": 1588,
+    "Discount": 50,
+    "StorageDate": "2018-04-03",
+    "Availability": 49,
+    "Informations": [
+      {
+        "PagesCount": 14,
+        "IsHardCover": true,
+        "Description": "Non in amet et nulla ullamco proident aliqua ut dolor ullamco exercitation est magna mollit. Cupidatat nulla adipisicing ad nostrud in consequat dolore sit enim nostrud amet do. Elit eu tempor enim velit aliqua elit deserunt aliqua. Ea veniam in sunt aliquip voluptate nostrud exercitation sint laboris non consequat est.\r\n"
+      }
+    ],
+    "Category": "fumetti",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 79,
+    "Title": "ipsum",
+    "Author": "Enid Dale",
+    "PublishingHouse": "Moltonic",
+    "Series": "esse occaecat",
+    "Picture": "http://culpa.it/voluptate",
+    "Price": "$43.84",
+    "PubblicationYear": 1162,
+    "Discount": 20,
+    "StorageDate": "2010-04-01",
+    "Availability": 25,
+    "Informations": [
+      {
+        "PagesCount": 101,
+        "IsHardCover": false,
+        "Description": "Reprehenderit culpa eiusmod aliquip nulla deserunt in qui culpa eiusmod est eiusmod aliquip nisi nisi. Lorem elit laboris occaecat deserunt ea incididunt deserunt culpa reprehenderit. Sint eu id sint enim et mollit mollit ad sunt consectetur do. Ullamco laborum do velit in excepteur minim sunt in magna. Ut ex sit sit pariatur sint voluptate.\r\n"
+      }
+    ],
+    "Category": "diritto",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 80,
+    "Title": "nostrud commodo commodo sunt",
+    "Author": "Marissa Paul",
+    "PublishingHouse": "Deepends",
+    "Series": "eiusmod",
+    "Picture": "http://veniam.it/voluptate",
+    "Price": "$43.97",
+    "PubblicationYear": 58,
+    "Discount": 25,
+    "StorageDate": "2017-03-28",
+    "Availability": 34,
+    "Informations": [
+      {
+        "PagesCount": 350,
+        "IsHardCover": false,
+        "Description": "Veniam magna ea amet officia ex magna culpa. Ut amet consectetur ex labore fugiat id laborum amet consectetur anim quis dolore ex ad. Laboris veniam Lorem ad proident. In irure commodo voluptate ea anim aliquip ipsum magna. Ut consectetur nostrud sint sint eiusmod ex incididunt esse ad et dolor exercitation. Eu dolore nisi aliqua tempor non consectetur. Quis consequat nostrud esse dolor ut consequat deserunt.\r\n"
+      }
+    ],
+    "Category": "fantascienza e fantasy",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 81,
+    "Title": "eiusmod",
+    "Author": "Palmer Garza",
+    "PublishingHouse": "Zinca",
+    "Series": "quis pariatur",
+    "Picture": "http://nostrud.it/nostrud",
+    "Price": "$26.94",
+    "PubblicationYear": 763,
+    "Discount": 25,
+    "StorageDate": "2010-03-24",
+    "Availability": 24,
+    "Informations": [
+      {
+        "PagesCount": 261,
+        "IsHardCover": true,
+        "Description": "Elit sit exercitation est elit commodo et exercitation officia veniam proident. Magna veniam ea veniam et voluptate laboris consequat. Laboris dolor occaecat nulla mollit in. Non ipsum id non tempor. Consequat fugiat veniam ea adipisicing dolor eu aute commodo aliqua. Officia esse nisi est consequat dolor. Do labore dolore qui exercitation anim officia velit excepteur nostrud.\r\n"
+      }
+    ],
+    "Category": "diritto",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 82,
+    "Title": "tempor laborum",
+    "Author": "Consuelo Foreman",
+    "PublishingHouse": "Cytrak",
+    "Series": "amet",
+    "Picture": "http://nisi.it/occaecat",
+    "Price": "$29.44",
+    "PubblicationYear": 1015,
+    "Discount": 0,
+    "StorageDate": "2014-11-23",
+    "Availability": 3,
+    "Informations": [
+      {
+        "PagesCount": 780,
+        "IsHardCover": true,
+        "Description": "Aute enim magna nulla amet occaecat eu enim aliquip qui mollit elit anim. Anim deserunt amet sint do ut veniam proident non ex officia culpa. Laborum nulla Lorem duis occaecat deserunt consectetur duis id.\r\n"
+      }
+    ],
+    "Category": "gialli",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 83,
+    "Title": "proident cillum pariatur voluptate esse",
+    "Author": "Tracy Kelly",
+    "PublishingHouse": "Zorromop",
+    "Series": "et",
+    "Picture": "http://mollit.it/proident",
+    "Price": "$11.34",
+    "PubblicationYear": 744,
+    "Discount": 25,
+    "StorageDate": "2018-07-05",
+    "Availability": 6,
+    "Informations": [
+      {
+        "PagesCount": 716,
+        "IsHardCover": false,
+        "Description": "Anim deserunt eu sint cupidatat nulla amet Lorem nostrud velit sit consequat aliquip id. Exercitation aliqua quis ipsum labore. Sit sunt eu in officia irure veniam tempor ut et. Ipsum sint Lorem eiusmod commodo sunt duis. Occaecat deserunt sunt fugiat adipisicing culpa proident ad amet velit excepteur nostrud aute.\r\n"
+      }
+    ],
+    "Category": "fumetti",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 84,
+    "Title": "elit",
+    "Author": "Odessa Erickson",
+    "PublishingHouse": "Obliq",
+    "Series": "ipsum enim",
+    "Picture": "http://sint.it/occaecat",
+    "Price": "$17.71",
+    "PubblicationYear": 1650,
+    "Discount": 20,
+    "StorageDate": "2012-07-15",
+    "Availability": 56,
+    "Informations": [
+      {
+        "PagesCount": 247,
+        "IsHardCover": false,
+        "Description": "Excepteur mollit adipisicing non do velit sunt dolor ipsum quis veniam. Aliqua aliqua eu officia ipsum in ipsum consequat aute aliquip veniam. Aute occaecat ut ut et do cillum commodo ad dolor cillum culpa commodo elit. Occaecat ipsum aliqua aliquip irure ipsum cupidatat Lorem cupidatat sit. Ad veniam quis deserunt sit laboris incididunt ut irure ut do. Id reprehenderit ipsum commodo irure incididunt sint nulla ea irure aliquip exercitation quis tempor culpa.\r\n"
+      }
+    ],
+    "Category": "filosofia",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 85,
+    "Title": "nostrud",
+    "Author": "Witt Edwards",
+    "PublishingHouse": "Magnafone",
+    "Series": "ullamco",
+    "Picture": "http://laboris.it/ea",
+    "Price": "$37.36",
+    "PubblicationYear": 1590,
+    "Discount": 0,
+    "StorageDate": "2013-06-03",
+    "Availability": 56,
+    "Informations": [
+      {
+        "PagesCount": 127,
+        "IsHardCover": false,
+        "Description": "Amet velit laborum et proident ut excepteur ea cillum ullamco aute occaecat occaecat exercitation. Ea enim commodo Lorem excepteur fugiat occaecat elit amet do ullamco ut. Eu exercitation consequat do qui cupidatat aute aliquip eu qui. Eu sit dolor dolore aliquip.\r\n"
+      }
+    ],
+    "Category": "religiosi",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 86,
+    "Title": "fugiat",
+    "Author": "Katelyn Barrera",
+    "PublishingHouse": "Assistia",
+    "Series": "aute fugiat",
+    "Picture": "http://elit.it/culpa",
+    "Price": "$26.47",
+    "PubblicationYear": 1483,
+    "Discount": 0,
+    "StorageDate": "2013-06-14",
+    "Availability": 54,
+    "Informations": [
+      {
+        "PagesCount": 209,
+        "IsHardCover": false,
+        "Description": "Minim tempor in sint laboris veniam occaecat sit consectetur sit enim esse nisi. Non aute cupidatat exercitation qui do ad et aliqua et consequat proident. Est fugiat laborum reprehenderit velit quis enim qui officia magna in. Deserunt sit occaecat culpa culpa in elit pariatur nulla. Ipsum dolor sit in adipisicing veniam anim. Qui anim enim duis sunt fugiat cillum fugiat dolor deserunt est incididunt cillum sit labore.\r\n"
+      }
+    ],
+    "Category": "gialli",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 87,
+    "Title": "proident",
+    "Author": "Berg Stark",
+    "PublishingHouse": "Coriander",
+    "Series": "dolor",
+    "Picture": "http://ea.it/laborum",
+    "Price": "$35.24",
+    "PubblicationYear": 1085,
+    "Discount": 50,
+    "StorageDate": "2011-01-31",
+    "Availability": 35,
+    "Informations": [
+      {
+        "PagesCount": 838,
+        "IsHardCover": false,
+        "Description": "Mollit dolor et aliquip anim laboris adipisicing ex. Dolore labore officia enim pariatur commodo qui id anim nisi officia aute magna deserunt. Adipisicing nisi culpa cillum adipisicing non fugiat voluptate id labore minim non deserunt eiusmod minim.\r\n"
+      }
+    ],
+    "Category": "religiosi",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 88,
+    "Title": "consequat voluptate incididunt",
+    "Author": "Bessie Coleman",
+    "PublishingHouse": "Proflex",
+    "Series": "deserunt",
+    "Picture": "http://duis.it/ullamco",
+    "Price": "$11.70",
+    "PubblicationYear": 1254,
+    "Discount": 0,
+    "StorageDate": "2018-05-18",
+    "Availability": 0,
+    "Informations": [
+      {
+        "PagesCount": 281,
+        "IsHardCover": false,
+        "Description": "Fugiat proident dolore minim quis. Sit ex et aliqua incididunt enim nulla sit ipsum enim. Nostrud exercitation Lorem laboris fugiat eu labore. Est cupidatat excepteur reprehenderit quis aliquip nostrud. Consectetur mollit anim dolor veniam do magna excepteur voluptate ut pariatur non.\r\n"
+      }
+    ],
+    "Category": "filosofia",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 89,
+    "Title": "ex in Lorem elit velit",
+    "Author": "Stuart Morris",
+    "PublishingHouse": "Besto",
+    "Series": "in ut",
+    "Picture": "http://velit.it/qui",
+    "Price": "$0.78",
+    "PubblicationYear": 329,
+    "Discount": 50,
+    "StorageDate": "2016-03-07",
+    "Availability": 53,
+    "Informations": [
+      {
+        "PagesCount": 666,
+        "IsHardCover": true,
+        "Description": "Fugiat exercitation est ipsum consequat cillum sint excepteur tempor eiusmod reprehenderit. Qui commodo sint in non laborum sunt sunt ut ipsum. Proident amet qui in amet commodo incididunt. Dolor elit occaecat ullamco aliquip fugiat anim. In consectetur non velit culpa officia velit id voluptate nulla proident nulla labore exercitation labore.\r\n"
+      }
+    ],
+    "Category": "cucina e casa",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 90,
+    "Title": "exercitation pariatur elit esse",
+    "Author": "Gibson Cantu",
+    "PublishingHouse": "Tripsch",
+    "Series": "magna deserunt",
+    "Picture": "http://do.it/aliqua",
+    "Price": "$49.44",
+    "PubblicationYear": 1478,
+    "Discount": 25,
+    "StorageDate": "2017-12-26",
+    "Availability": 36,
+    "Informations": [
+      {
+        "PagesCount": 559,
+        "IsHardCover": true,
+        "Description": "Nisi occaecat elit voluptate ipsum eiusmod ipsum sint ullamco elit in deserunt incididunt irure. Eiusmod pariatur cillum ullamco velit. Labore sunt veniam ea cupidatat ea aliqua aliquip sit reprehenderit. Ullamco deserunt excepteur id laboris officia ad elit. Ut enim esse enim culpa nisi excepteur est labore. Nulla dolore pariatur do magna irure deserunt adipisicing proident eu aute. In do duis fugiat laborum.\r\n"
+      }
+    ],
+    "Category": "religiosi",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 91,
+    "Title": "pariatur duis",
+    "Author": "Rosella Lynn",
+    "PublishingHouse": "Enquility",
+    "Series": "nulla",
+    "Picture": "http://qui.it/amet",
+    "Price": "$23.53",
+    "PubblicationYear": 1204,
+    "Discount": 0,
+    "StorageDate": "2015-11-28",
+    "Availability": 33,
+    "Informations": [
+      {
+        "PagesCount": 783,
+        "IsHardCover": true,
+        "Description": "Anim ut consectetur adipisicing quis nisi duis irure labore occaecat. Lorem dolore qui Lorem ipsum culpa ullamco ad aute velit. Sint et ex officia proident commodo consequat ex sit id proident quis culpa. Minim dolor nulla et cillum ut velit consequat exercitation eu pariatur veniam id amet. Ipsum reprehenderit eu occaecat exercitation mollit est elit est sit Lorem ullamco ad exercitation. Culpa nulla nulla quis anim.\r\n"
+      }
+    ],
+    "Category": "sport",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 92,
+    "Title": "ullamco aliquip eu",
+    "Author": "Dean Hester",
+    "PublishingHouse": "Enersol",
+    "Series": "ad",
+    "Picture": "http://qui.it/adipisicing",
+    "Price": "$38.97",
+    "PubblicationYear": 1442,
+    "Discount": 20,
+    "StorageDate": "2013-03-26",
+    "Availability": 43,
+    "Informations": [
+      {
+        "PagesCount": 40,
+        "IsHardCover": true,
+        "Description": "Occaecat ea et deserunt incididunt pariatur magna officia mollit deserunt anim officia aliquip fugiat ea. Aute exercitation exercitation et ea commodo sunt dolore consequat. Ea reprehenderit eiusmod quis fugiat incididunt sunt aute Lorem esse consectetur veniam ex consequat esse.\r\n"
+      }
+    ],
+    "Category": "fantascienza e fantasy",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 93,
+    "Title": "ad commodo nostrud elit officia",
+    "Author": "Lucille Delacruz",
+    "PublishingHouse": "Bunga",
+    "Series": "eiusmod et",
+    "Picture": "http://deserunt.it/velit",
+    "Price": "$14.57",
+    "PubblicationYear": 673,
+    "Discount": 20,
+    "StorageDate": "2015-12-03",
+    "Availability": 2,
+    "Informations": [
+      {
+        "PagesCount": 900,
+        "IsHardCover": false,
+        "Description": "Cillum reprehenderit consectetur aliquip amet quis incididunt qui adipisicing. Mollit occaecat tempor mollit eiusmod incididunt proident officia laborum ex labore. Ut pariatur adipisicing ad in dolor quis occaecat qui veniam sint nulla quis. Qui commodo do proident aute voluptate dolor duis duis veniam cupidatat veniam id duis quis. Irure non adipisicing consectetur aute velit do. Est proident ut irure do. Minim exercitation mollit ullamco et ut ut incididunt elit.\r\n"
+      }
+    ],
+    "Category": "religiosi",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 94,
+    "Title": "amet ad exercitation",
+    "Author": "Ebony Garcia",
+    "PublishingHouse": "Darwinium",
+    "Series": "nulla",
+    "Picture": "http://exercitation.it/enim",
+    "Price": "$9.85",
+    "PubblicationYear": 20,
+    "Discount": 20,
+    "StorageDate": "2011-12-18",
+    "Availability": 40,
+    "Informations": [
+      {
+        "PagesCount": 868,
+        "IsHardCover": true,
+        "Description": "Ex Lorem proident ut enim. Nisi ipsum ipsum officia ipsum consectetur. Ea aliquip aliqua eu Lorem occaecat voluptate cupidatat fugiat id aliqua nisi tempor. Dolor magna sit fugiat anim. Aliqua occaecat sint qui exercitation do reprehenderit reprehenderit nisi nostrud elit. Sint eu amet non duis excepteur irure aliqua laborum Lorem. Enim est ut adipisicing velit ex est officia fugiat est nostrud reprehenderit aute qui et.\r\n"
+      }
+    ],
+    "Category": "religiosi",
+    "Subcategory": "Ultimi arrivi"
+  },
+  {
+    "Id": 95,
+    "Title": "est in irure non dolor",
+    "Author": "Kaufman Cooley",
+    "PublishingHouse": "Aquafire",
+    "Series": "laboris",
+    "Picture": "http://occaecat.it/reprehenderit",
+    "Price": "$49.23",
+    "PubblicationYear": 1665,
+    "Discount": 25,
+    "StorageDate": "2010-02-10",
+    "Availability": 7,
+    "Informations": [
+      {
+        "PagesCount": 16,
+        "IsHardCover": false,
+        "Description": "Commodo elit reprehenderit mollit cillum deserunt consequat aliquip non. Tempor et id officia anim et nisi ea ex sit ullamco eu nisi minim in. Dolor reprehenderit id ullamco excepteur irure. Do officia enim duis Lorem reprehenderit pariatur sint dolor dolore.\r\n"
+      }
+    ],
+    "Category": "religiosi",
+    "Subcategory": "Offerte speciali"
+  },
+  {
+    "Id": 96,
+    "Title": "cupidatat do et",
+    "Author": "Rodriquez Patrick",
+    "PublishingHouse": "Apextri",
+    "Series": "anim amet",
+    "Picture": "http://tempor.it/deserunt",
+    "Price": "$40.84",
+    "PubblicationYear": 1238,
+    "Discount": 20,
+    "StorageDate": "2018-02-26",
+    "Availability": 16,
+    "Informations": [
+      {
+        "PagesCount": 115,
+        "IsHardCover": true,
+        "Description": "Excepteur incididunt aute nisi id est consectetur consequat sit sint reprehenderit magna amet do deserunt. Tempor consectetur aliquip quis minim magna ea ipsum duis amet consectetur culpa aliquip officia. Esse aliquip ad aute veniam id veniam labore laboris. Mollit aute ea nulla cupidatat veniam aliquip aliqua aute aliquip adipisicing nostrud consectetur quis. Labore reprehenderit duis Lorem eiusmod excepteur do.\r\n"
+      }
+    ],
+    "Category": "arte",
+    "Subcategory": "I più venduti"
+  },
+  {
+    "Id": 97,
+    "Title": "ut",
+    "Author": "Rosemary Beach",
+    "PublishingHouse": "Krag",
+    "Series": "qui enim",
+    "Picture": "http://ut.it/occaecat",
+    "Price": "$3.39",
+    "PubblicationYear": 1550,
+    "Discount": 0,
+    "StorageDate": "2018-02-18",
+    "Availability": 0,
+    "Informations": [
+      {
+        "PagesCount": 244,
+        "IsHardCover": false,
+        "Description": "Qui laboris ex officia consectetur duis officia quis occaecat laboris. Cupidatat id elit fugiat est pariatur cupidatat sint adipisicing do do velit proident. Qui sit sit excepteur mollit quis amet Lorem nisi non voluptate nostrud ex voluptate velit. Fugiat quis nostrud exercitation enim ullamco reprehenderit enim aliquip elit dolore pariatur qui et. Elit fugiat consequat fugiat incididunt ea nostrud fugiat enim.\r\n"
+      }
+    ],
+    "Category": "architettura e urbanistica",
+    "Subcategory": "Da non perdere"
+  },
+  {
+    "Id": 98,
+    "Title": "nulla mollit",
+    "Author": "Holder Hudson",
+    "PublishingHouse": "Zilidium",
+    "Series": "ea",
+    "Picture": "http://aliquip.it/minim",
+    "Price": "$10.47",
+    "PubblicationYear": 1017,
+    "Discount": 50,
+    "StorageDate": "2012-02-02",
+    "Availability": 13,
+    "Informations": [
+      {
+        "PagesCount": 612,
+        "IsHardCover": false,
+        "Description": "Excepteur sunt quis cillum Lorem dolore esse ipsum aliquip dolore laborum aliqua excepteur. Ullamco nostrud duis velit officia do esse dolor occaecat fugiat veniam irure ex excepteur. Irure proident cillum laborum cillum commodo dolor sunt enim nulla. Cillum occaecat fugiat sit officia dolore consequat veniam sit deserunt. Ipsum culpa quis sunt in in ut occaecat elit duis est non sint enim.\r\n"
+      }
+    ],
+    "Category": "classici greci e latini",
+    "Subcategory": "Remainders"
+  },
+  {
+    "Id": 99,
+    "Title": "fugiat reprehenderit qui incididunt est",
+    "Author": "Whitfield Cortez",
+    "PublishingHouse": "Cinesanct",
+    "Series": "pariatur laboris",
+    "Picture": "http://consectetur.it/cupidatat",
+    "Price": "$47.47",
+    "PubblicationYear": 1729,
+    "Discount": 0,
+    "StorageDate": "2018-08-15",
+    "Availability": 44,
+    "Informations": [
+      {
+        "PagesCount": 873,
+        "IsHardCover": false,
+        "Description": "Tempor velit laborum irure in pariatur aliqua. Do non adipisicing eu sit proident duis ad voluptate velit laborum proident sunt labore pariatur. Cillum laborum Lorem laboris voluptate nisi est consectetur commodo in culpa occaecat. Eu ut officia duis dolore. Labore veniam minim ex do nulla Lorem commodo nostrud ut adipisicing aute. Commodo est irure deserunt tempor consectetur cillum veniam consequat occaecat.\r\n"
+      }
+    ],
+    "Category": "fantascienza e fantasy",
+    "Subcategory": "Offerte speciali"
+  }
+]
+}
