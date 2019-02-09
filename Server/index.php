@@ -14,12 +14,15 @@
 				break;
 				
 			case 2:
-				//$arrayString = implode("", get_Discounted());	
-				
-				deliver_response(200, "Operation completed", get_Discounted());
+				// TO DO		
+					
+				//deliver_response(200, "Operation completed", get_Discounted());
 				break;
 				
 			case 3:
+				$d1 = $_GET['d1'];
+				$d2 = $_GET['d2'];
+				deliver_response(200, "Operation completed", get_FromDate($d1, $d2));
 				break;
 				
 			case 4:

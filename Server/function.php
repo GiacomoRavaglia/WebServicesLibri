@@ -32,6 +32,7 @@
 	function get_UltimiArrivi()
 	{
 		$books = json_decode(file_get_contents("book.json"), true);
+		
 		$count = 0;
 		
 		foreach($books['book'] as $book)
@@ -52,8 +53,28 @@
 			if($book['Discount'] != 0)
 				array_push($discountedBooks, $book['name']);
 			
-		return "ok";
+		return implode(",", $discountedBooks);
 	}
+	
+	function get_FromDates($firstDate, $secondDate/*$startYear, $endYear, $startMonth, $endMonth, $startDay, $endDay*/)
+	{
+		$books = json_decode(file_get_contents("book.json"), true);
+		$verifiedBooks = array();
+		
+		foreach($books['book'] as $book)
+		{
+			$currentDate = new DateTime($book['StorageDate']);
+			$startDate = new DateTime($firstDate/*$startYear."-".$startMonth."-".$startDay*/);
+			$endDate = new DateTime($secondDate/*$endYear."-".$endMonth."-".$endDay*/);
+			
+			if($startDate->diff(currentDate) < $endDate->diff(currentDate))
+				array_push($verifiedBooks, $book['name'];
+		}
+
+		return $verifiedBooks;
+	}
+	
+	
 	
 	
 	function array_sort($array, $on, $order=SORT_ASC)
