@@ -48,8 +48,9 @@ namespace ClientWebServices_Ravaglia_Matteoni
         {
             // URL a cui inoltrare la richiesta
             string url = @"http://10.13.100.35/Rava/WebServices/" +
-                         "?op=2";                      
+                         "?op=3&d1=2000-04-13&d2=2010-06-10";
 
+            //op=3&d1=2000-04-13&d2=2010-06-10
             GetRequest(url);
         } 
     }

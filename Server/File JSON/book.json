@@ -1,9 +1,9 @@
 {"book": [
-		{ "name":"java", "price":299, "Category":"fumetti", "Subcategory":"Ultimi arrivi", "Discount": "10"},
-		{ "name":"c", "price":348, "Category":"fumetti", "Subcategory":"Reminder", "Discount": "0"},
-		{ "name":"php", "price":267, "Category":"sport", "Subcategory":"Ultimi arrivi", "Discount": "25"}
-		{ "name":"javascript", "price":345, "Category":"web", "Subcategory":"I più venduti", "Discount": "30"},
-		{ "name":"c++", "price":3148, "Category":"fumetti", "Subcategory":"", "Discount": "15"},
-		{ "name":"html", "price":27, "Category":"web", "Subcategory":"Ultimi arrivi", "Discount": "0"}
+		{ "name":"java", "price":299, "Category":"fumetti", "Subcategory":"Ultimi arrivi", "Discount": "10", "StorageDate": "2000-05-12"},
+		{ "name":"c", "price":348, "Category":"fumetti", "Subcategory":"Reminder", "Discount": "0", "StorageDate": "2006-10-11"},
+		{ "name":"php", "price":267, "Category":"sport", "Subcategory":"Ultimi arrivi", "Discount": "25", "StorageDate": "1965-09-26"},
+		{ "name":"javascript", "price":345, "Category":"web", "Subcategory":"I più venduti", "Discount": "30", "StorageDate": "2000-09-12"},
+		{ "name":"c++", "price":3148, "Category":"fumetti", "Subcategory":"", "Discount": "15", "StorageDate": "2010-05-13"},
+		{ "name":"html", "price":27, "Category":"web", "Subcategory":"Ultimi arrivi", "Discount": "0", "StorageDate": "2012-11-12"}
 	 ]
 }

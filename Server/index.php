@@ -22,6 +22,7 @@
 			case 3:
 				$d1 = $_GET['d1'];
 				$d2 = $_GET['d2'];
+					
 				deliver_response(200, "Operation completed", get_FromDate($d1, $d2));
 				break;
 				
