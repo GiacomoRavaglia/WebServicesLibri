@@ -14,9 +14,7 @@
 				break;
 				
 			case 2:
-				// TO DO		
-					
-				//deliver_response(200, "Operation completed", get_Discounted());
+				deliver_response(200, "Operation completed", get_Discounted());
 				break;
 				
 			case 3:

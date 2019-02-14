@@ -1,33 +1,4 @@
 <?php
-	function get_price($find){
-		/* $books=array(
-		 "java"=>299,
-		 "c"=>348,
-		 "php"=>267
-		 );*/
-		$tmp = "book.json";
-		$str = file_get_contents($tmp);
-		$books = json_decode($str, true); 
-		// echo '<pre>' . print_r($books, true) . '</pre>';
-		/* foreach($books as $book=>$price)
-		 {
-			 if($book==$find)
-			 {
-				 return $price;
-				 break;
-			 }
-		 }*/
-		 
-		 foreach($books['book'] as $book)
-		 {
-			 if($book['name']==$find)
-			 {
-				 return $book['price'];
-				 break;
-			 }
-		 }
-	 }
-	 
 	function get_UltimiArrivi()
 	{
 		$books = json_decode(file_get_contents("book.json"), true);
@@ -47,9 +18,9 @@
 		$discountedBooks = array();
 		
 		$orderedBooks = array_sort($books, "Discount");
-		
-		foreach($orderedBooks as $book)
-			if($book['Discount'] != 0)
+
+		foreach($orderedBooks as  $book)
+			if($books["Discount"] != 0)
 				array_push($discountedBooks, $book['name']);
 			
 		return implode(",", $discountedBooks);
@@ -66,11 +37,11 @@
 		{
 			$currentDate = new DateTime($book['StorageDate']);
 			
-			if(date_diff($startDate, $currentDate) < date_diff($startDate, $endDate))
+			if(date_diff($startDate, $currentDate) <= date_diff($startDate, $endDate))
 				array_push($verifiedBooks, $book['name']);
 		}
 
-		return $verifiedBooks;
+		return implode("-", $verifiedBooks);
 	}
 	
 	
