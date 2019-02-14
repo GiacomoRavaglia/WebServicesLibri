@@ -17,13 +17,16 @@
 		$books = json_decode(file_get_contents("book.json"), true);
 		$discountedBooks = array();
 		
-		$orderedBooks = array_sort($books, "Discount");
+		foreach($books as $book)
+			echo($book['Discount']);
+		
+		/*$orderedBooks = array_sort($books, 'Discount');
 
 		foreach($orderedBooks as  $book)
 			if($books["Discount"] != 0)
 				array_push($discountedBooks, $book['name']);
 			
-		return implode(",", $discountedBooks);
+		return implode(",", $discountedBooks);*/
 	}
 	
 	function get_FromDate($firstDate, $secondDate)
@@ -44,7 +47,20 @@
 		return implode("-", $verifiedBooks);
 	}
 	
-	
+	function get_Cart($cartCode)
+	{
+		$users = json_decode(file_get_contents("dbUtenti.json"), true);
+		$result = array();
+		
+		foreach($users as $user)
+		{
+			if($user['Id'] == $cartCode)
+			{
+				array_push($result, $user['Email'], $user['Cart']);
+				return $result;
+			}
+		}
+	}
 	
 	
 	function array_sort($array, $on, $order=SORT_ASC)

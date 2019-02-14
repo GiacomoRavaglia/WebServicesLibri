@@ -9,35 +9,32 @@
 		
 		switch($operation)
 		{
+			// first query (find every books with "Fumetti" as Category and "Ultimi arrvi" as Subcategory
 			case 1:
 				deliver_response(200, "Operation completed", get_UltimiArrivi());
 				break;
 				
 			case 2:
-				deliver_response(200, "Operation completed", get_Discounted());
+				// TO DO FIX 
+				//deliver_response(200, "Operation completed", get_Discounted());
 				break;
 				
-			case 3:
-				$d1 = $_GET['d1'];
-				$d2 = $_GET['d2'];
-					
-				deliver_response(200, "Operation completed", get_FromDate($d1, $d2));
+			case 3:					
+				deliver_response(200, "Operation completed", get_FromDate($_GET['d1'], $_GET['d2']));
 				break;
 				
 			case 4:
+				$code = $_GET['code'];
+				$result = get_Cart($code);
+				
+				$books = $result['Cart'];
+							
+				deliver_response(200, "Operation completed", implode("-", $books));
 				break;
 				
 			default:
 					break;
 		}
-		//$price=get_price($name);
-	/*
-		if(empty($price))
-		//book not found
-			deliver_response(200,"book not found", NULL);
-		else
-			//respond book price
-			deliver_response(200,"book found", $price);*/
 	}
 	else
 	{
@@ -48,9 +45,6 @@
 	function deliver_response($status, $status_message, $data)
 	{
 		header("HTTP/1.1 $status $status_message");
-		
-		$response ['status']=$status;
-		$response['status_message']=$status_message;
 		$response['data']=$data;
 		
 		$json_response=json_encode($response);
