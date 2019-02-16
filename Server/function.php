@@ -1,10 +1,12 @@
 <?php
+	// method for the first query
 	function get_UltimiArrivi()
 	{
-		$books = json_decode(file_get_contents("book.json"), true);
+		// local variables
+		$books = json_decode(file_get_contents("book.json"), true);				// array which contains every book into the database
+		$count = 0;																// variable which count how many books respect the conditions
 		
-		$count = 0;
-		
+		// searching
 		foreach($books['book'] as $book)
 			if(($book['Category'] == "fumetti") && ($book['Subcategory'] == "Ultimi arrivi"))
 				$count++;
@@ -12,30 +14,34 @@
 		return $count;
 	}
 	
+	// method for the second query
 	function get_Discounted()
 	{
-		$books = json_decode(file_get_contents("book.json"), true);
-		$discountedBooks = array();
+		// local variables
+		$books = json_decode(file_get_contents("book.json"), true);				// array which contains every book into the database
+		$discountedBooks = array();												// array which contains only the discounted books
 		
-		foreach($books as $book)
-			echo($book['Discount']);
-		
-		/*$orderedBooks = array_sort($books, 'Discount');
-
-		foreach($orderedBooks as  $book)
-			if($books["Discount"] != 0)
-				array_push($discountedBooks, $book['name']);
+		// searching
+		foreach($books['book'] as $book)
+			if($book['Discount'] != "0")
+				$discountedBooks[$book['Discount']] = $book['name'];
 			
-		return implode(",", $discountedBooks);*/
+		// array sorting by discount
+		ksort($discountedBooks);
+		
+		return $discountedBooks;
 	}
 	
+	// method for the third query
 	function get_FromDate($firstDate, $secondDate)
 	{
-		$books = json_decode(file_get_contents("book.json"), true);
-		$verifiedBooks = array();
-		$startDate = new DateTime($firstDate);
-		$endDate = new DateTime($secondDate);	
+		// local variables
+		$books = json_decode(file_get_contents("book.json"), true);				// array which contains every book into the database
+		$verifiedBooks = array();												// array which contains only the books stored between the two dates
+		$startDate = new DateTime($firstDate);									// the start date
+		$endDate = new DateTime($secondDate);									// the end date
 		
+		// searching
 		foreach($books['book'] as $book)
 		{
 			$currentDate = new DateTime($book['StorageDate']);
@@ -47,54 +53,25 @@
 		return implode("-", $verifiedBooks);
 	}
 	
+	// method for the fourth query
 	function get_Cart($cartCode)
 	{
-		$users = json_decode(file_get_contents("dbUtenti.json"), true);
-		$result = array();
+		// local variables
+		$users = json_decode(file_get_contents("dbUtenti.json"), true);			// array which contains every book into the database
+		$result = array();														// array which contains all the required data
 		
+		// seaching the correct user and the cart
 		foreach($users as $user)
 		{
 			if($user['Id'] == $cartCode)
 			{
-				array_push($result, $user['Email'], $user['Cart']);
-				return $result;
+				$result['username'] = $user['Email'];
+				
+				foreach($user['Cart'] as $book)
+					$result[$book['Book']['Amount']] = $book['Book']['BookId'];
 			}
 		}
-	}
-	
-	
-	function array_sort($array, $on, $order=SORT_ASC)
-	{
-		$new_array = array();
-		$sortable_array = array();
-
-		if (count($array) > 0) {
-			foreach ($array as $k => $v) {
-				if (is_array($v)) {
-					foreach ($v as $k2 => $v2) {
-						if ($k2 == $on) {
-							$sortable_array[$k] = $v2;
-						}
-					}
-				} else {
-					$sortable_array[$k] = $v;
-				}
-			}
-
-			switch ($order) {
-				case SORT_ASC:
-					asort($sortable_array);
-				break;
-				case SORT_DESC:
-					arsort($sortable_array);
-				break;
-			}
-
-			foreach ($sortable_array as $k => $v) {
-				$new_array[$k] = $array[$k];
-			}
-		}
-
-		return $new_array;
+		
+		return $result;
 	}
 ?>
