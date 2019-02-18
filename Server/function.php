@@ -67,8 +67,7 @@
 			{
 				$result['username'] = $user['Email'];
 				
-				foreach($user['Cart'] as $book)
-					$result[$book['Book']['Amount']] = $book['Book']['BookId'];
+				$cart = $user['Cart'];			
 			}
 		}
 		

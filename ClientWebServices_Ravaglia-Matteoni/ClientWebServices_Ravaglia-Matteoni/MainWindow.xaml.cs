@@ -53,6 +53,11 @@ namespace ClientWebServices_Ravaglia_Matteoni
 
             //op=3&d1=2000-04-13&d2=2010-06-10
             GetRequest(url);
-        } 
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

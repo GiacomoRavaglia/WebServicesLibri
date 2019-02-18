@@ -28,6 +28,10 @@
           {
             "BookId": "quanto è bello l'itt",
             "Amount": "4"
+          },
+		  {
+            "BookId": "quanto è brutto l'itt",
+            "Amount": "400"
           }
         ]
       }
