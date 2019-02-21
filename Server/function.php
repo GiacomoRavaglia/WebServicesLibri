@@ -45,9 +45,15 @@
 		foreach($books['book'] as $book)
 		{
 			$currentDate = new DateTime($book['StorageDate']);
+			$diff1 = date_diff($startDate, $currentDate);
+			var_dump($diff1->format('%R%a'));
 			
-			if(date_diff($startDate, $currentDate) <= date_diff($startDate, $endDate))
-				array_push($verifiedBooks, $book['name']);
+			$diff2 = date_diff($startDate, $endDate);
+			var_dump($diff2->format('%R%a'));
+			
+			if($diff1->format('%R%a') > 0)
+				if (($diff1->format('$R%a')) <= ($diff2->format('%R%a')))
+					array_push($verifiedBooks, $book['name']);
 		}
 
 		return implode("-", $verifiedBooks);
