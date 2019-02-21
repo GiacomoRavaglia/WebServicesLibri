@@ -71,11 +71,8 @@ namespace ClientWebServices_Ravaglia_Matteoni
         {
             if ((dp_StartDate.SelectedDate != null) && (dp_EndDate.SelectedDate != null))
                 GetRequest(Command.ThirdQuery((DateTime)dp_StartDate.SelectedDate, (DateTime)dp_EndDate.SelectedDate));
-                //MessageBox.Show(Command.ThirdQuery((DateTime)dp_StartDate.SelectedDate, (DateTime)dp_EndDate.SelectedDate));
             else
                 MessageBox.Show("Selezionare una data di inizio e una di fine", "Errore");
-
-
         }
 
         private void btn_CercaCarrello_Click(object sender, RoutedEventArgs e)

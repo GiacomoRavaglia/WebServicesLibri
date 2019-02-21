@@ -3,7 +3,7 @@
 	function get_UltimiArrivi()
 	{
 		// local variables
-		$books = json_decode(file_get_contents("book.json"), true);				// array which contains every book into the database
+		$books = json_decode(file_get_contents("dbLibri.json"), true);				// array which contains every book into the database
 		$count = 0;																// variable which count how many books respect the conditions
 		
 		// searching
@@ -18,16 +18,16 @@
 	function get_Discounted()
 	{
 		// local variables
-		$books = json_decode(file_get_contents("book.json"), true);				// array which contains every book into the database
+		$books = json_decode(file_get_contents("dbLibri.json"), true);				// array which contains every book into the database
 		$discountedBooks = array();												// array which contains only the discounted books
 		
 		// searching
 		foreach($books['book'] as $book)
 			if($book['Discount'] != "0")
-				$discountedBooks[$book['Discount']] = $book['name'];
+				$discountedBooks[$book['Title']] = $book['Discount'];
 			
 		// array sorting by discount
-		ksort($discountedBooks);
+		asort($discountedBooks);
 		
 		return $discountedBooks;
 	}
@@ -36,7 +36,7 @@
 	function get_FromDate($firstDate, $secondDate)
 	{
 		// local variables
-		$books = json_decode(file_get_contents("book.json"), true);				// array which contains every book into the database
+		$books = json_decode(file_get_contents("dbLibri.json"), true);				// array which contains every book into the database
 		$verifiedBooks = array();												// array which contains only the books stored between the two dates
 		$startDate = new DateTime($firstDate);									// the start date
 		$endDate = new DateTime($secondDate);									// the end date
@@ -45,25 +45,20 @@
 		foreach($books['book'] as $book)
 		{
 			$currentDate = new DateTime($book['StorageDate']);
-			$diff1 = date_diff($startDate, $currentDate);
-			var_dump($diff1->format('%R%a'));
 			
-			$diff2 = date_diff($startDate, $endDate);
-			var_dump($diff2->format('%R%a'));
-			
-			if($diff1->format('%R%a') > 0)
-				if (($diff1->format('$R%a')) <= ($diff2->format('%R%a')))
-					array_push($verifiedBooks, $book['name']);
+			if(date_diff($startDate, $currentDate)->format('%R%a') > 0)
+				if ((date_diff($startDate, $currentDate)->format('$R%a')) <= (date_diff($startDate, $currentDate)->format('%R%a')))
+					array_push($verifiedBooks, $book['Title']);
 		}
 
-		return implode("-", $verifiedBooks);
+		return implode("#", $verifiedBooks);
 	}
 	
 	// method for the fourth query
 	function get_Cart($cartCode)
 	{
 		// local variables
-		$users = json_decode(file_get_contents("dbUtenti.json"), true);			// array which contains every book into the database
+		$users = json_decode(file_get_contents("dbUsers.json"), true);			// array which contains every book into the database
 		$result = array();														// array which contains all the required data
 		
 		// seaching the correct user and the cart
