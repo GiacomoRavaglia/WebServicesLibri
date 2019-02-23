@@ -26,11 +26,7 @@
 				
 			// fourth query(find the cart with the specified code and return the username, the books title and the copy number of each books)
 			case 4:
-				$code = $_GET['code'];
-				$result = get_Cart($code);
-				
-				//$books = $result['Cart'];
-				//deliver_response(implode("-", $books));
+				deliver_response(get_Cart($_GET['code']));
 				break;
 				
 			default:

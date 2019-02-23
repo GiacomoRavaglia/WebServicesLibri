@@ -36,7 +36,7 @@
 	function get_FromDate($firstDate, $secondDate)
 	{
 		// local variables
-		$books = json_decode(file_get_contents("dbLibri.json"), true);				// array which contains every book into the database
+		$books = json_decode(file_get_contents("dbLibri.json"), true);			// array which contains every book into the database
 		$verifiedBooks = array();												// array which contains only the books stored between the two dates
 		$startDate = new DateTime($firstDate);									// the start date
 		$endDate = new DateTime($secondDate);									// the end date
@@ -57,21 +57,37 @@
 	// method for the fourth query
 	function get_Cart($cartCode)
 	{
-		// local variables
-		$users = json_decode(file_get_contents("dbUsers.json"), true);			// array which contains every book into the database
-		$result = array();														// array which contains all the required data
+		// local arrays
+		$users = json_decode(file_get_contents("dbUsers.json"), true);			// array which contains every book into the database	
+		$result = array();													// array which contains the books contained into the cart
+		$convertedResult = array();
 		
 		// seaching the correct user and the cart
 		foreach($users as $user)
-		{
 			if($user['Id'] == $cartCode)
 			{
-				$result['username'] = $user['Email'];
-				
-				$cart = $user['Cart'];			
+				array_push($convertedResult, $user['Email']);
+
+				foreach($user['Cart'] as $book)
+					array_push($result, array("Title" => getTitle($book['BookId']), "Amount" => $book['Amount']));
 			}
-		}
 		
-		return $result;
+		// conversion of array into string
+		foreach($result as $book)
+			array_push($convertedResult, implode("-", $book));
+			
+		return implode("#", $convertedResult);
+	}
+	
+	// method that return the book's title from the book's id
+	function getTitle($bookId)
+	{
+		$books = json_decode(file_get_contents("dbLibri.json"), true);			// array which contains every book into the database
+		
+		foreach($books['book'] as $book)
+			if($book['Id'] == $bookId)
+				return $book['Title'];
+			
+		return "Not found";
 	}
 ?>
