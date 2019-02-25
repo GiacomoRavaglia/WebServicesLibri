@@ -16,7 +16,6 @@ C:\Users\giacomo.ravaglia\Desktop\ClientWebServices_Ravaglia-Matteoni\ClientWebS
 C:\Users\giacomo.ravaglia\Desktop\WebServicesLibri\ClientWebServices_Ravaglia-Matteoni\ClientWebServices_Ravaglia-Matteoni\bin\Debug\ClientWebServices_Ravaglia-Matteoni.exe.config
 C:\Users\giacomo.ravaglia\Desktop\WebServicesLibri\ClientWebServices_Ravaglia-Matteoni\ClientWebServices_Ravaglia-Matteoni\bin\Debug\ClientWebServices_Ravaglia-Matteoni.exe
 C:\Users\giacomo.ravaglia\Desktop\WebServicesLibri\ClientWebServices_Ravaglia-Matteoni\ClientWebServices_Ravaglia-Matteoni\bin\Debug\ClientWebServices_Ravaglia-Matteoni.pdb
-C:\Users\giacomo.ravaglia\Desktop\WebServicesLibri\ClientWebServices_Ravaglia-Matteoni\ClientWebServices_Ravaglia-Matteoni\obj\Debug\ClientWebServices_Ravaglia-Matteoni.csprojAssemblyReference.cache
 C:\Users\giacomo.ravaglia\Desktop\WebServicesLibri\ClientWebServices_Ravaglia-Matteoni\ClientWebServices_Ravaglia-Matteoni\obj\Debug\MainWindow.g.cs
 C:\Users\giacomo.ravaglia\Desktop\WebServicesLibri\ClientWebServices_Ravaglia-Matteoni\ClientWebServices_Ravaglia-Matteoni\obj\Debug\App.g.cs
 C:\Users\giacomo.ravaglia\Desktop\WebServicesLibri\ClientWebServices_Ravaglia-Matteoni\ClientWebServices_Ravaglia-Matteoni\obj\Debug\ClientWebServices_Ravaglia-Matteoni_MarkupCompile.cache

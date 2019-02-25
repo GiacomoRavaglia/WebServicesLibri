@@ -7,16 +7,13 @@
         mc:Ignorable="d"
         Title="Client" Height="450" Width="800" ResizeMode="NoResize">
     <Grid>
-        <Button x:Name="btn_Get" Content="Button" HorizontalAlignment="Left" Margin="63,346,0,0" VerticalAlignment="Top" Width="75" Click="btn_Get_Click"/>
         <Button x:Name="quantitar" Content="quantita" HorizontalAlignment="Left" Margin="49,170,0,0" VerticalAlignment="Top" Width="89" Height="25" Background="Black" ScrollViewer.CanContentScroll="True" Foreground="White"/>
         <Button x:Name="elenco1r" Content="elenco1" HorizontalAlignment="Left" Margin="246,170,0,0" VerticalAlignment="Top" Width="89" Height="25" Background="Black" Foreground="White"/>
         <Button x:Name="elenco2r" Content="elenco2" HorizontalAlignment="Left" Margin="431,170,0,0" VerticalAlignment="Top" Width="89" Height="25" Background="Black" Grid.IsSharedSizeScope="True" Foreground="White"/>
         <TextBox x:Name="quantita" HorizontalAlignment="Left" Height="23" Margin="49,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="89"/>
         <Label x:Name="_1" Content="Quantita dei libri &quot;Ultimi arrivi&quot;&#xA;nel reparto &quot;fumetti&quot;:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,53,0,0" Width="171" Background="Black" Foreground="White"/>
-        <TextBox x:Name="elenco1" HorizontalAlignment="Left" Height="128" Margin="246,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="89"/>
         <Button x:Name="elenco3r" Content="elenco3" HorizontalAlignment="Left" Margin="630,170,0,0" VerticalAlignment="Top" Width="88" Height="25" Background="Black" Foreground="White"/>
         <TextBox x:Name="elenco3" HorizontalAlignment="Left" Height="166" Margin="576,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195"/>
-        <TextBox x:Name="elenco2" HorizontalAlignment="Left" Height="128" Margin="431,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="89"/>
         <Label x:Name="_2" Content="Elenco libri scontati in tutti&#xA;i reparti (in ordine crescente&#xA;per sconto):" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="215,53,0,0" Width="161" Height="60" Background="Black" Foreground="White"/>
         <Label x:Name="_3" Content="Elenco libri archiviati tra le&#xA;seguenti date:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="404,58,0,0" Width="149" Background="Black" Foreground="White"/>
         <Label x:Name="inizior" Content="inizio" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="417,105,0,0" Width="40" Height="23" RenderTransformOrigin="-2.189,4.783" Background="Black" Foreground="White"/>
@@ -24,12 +21,14 @@
         <Label x:Name="_4" Content="Elenco libri e le rispettive&#xA;informazioni  ( numero copie,&#xA;username utente associato a&#xA;quel carrello" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="589,53,0,0" Width="169" Height="75" Background="Black" Foreground="White"/>
         <TextBox x:Name="CodiceCarrello" HorizontalAlignment="Left" Height="26" Margin="671,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="101"/>
         <Label x:Name="Codice_Carrello_r" Content="Codice Carrello" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="576,133,0,0" Width="90" Height="26" Background="Black" Foreground="White"/>
-        <DatePicker x:Name="dp_StartDate" HorizontalAlignment="Left" Margin="404,134,0,0" VerticalAlignment="Top" Text="d" Width="68"/>
-        <DatePicker x:Name="dp_EndDate" HorizontalAlignment="Left" Margin="487,133,0,0" VerticalAlignment="Top" Width="70"/>
+        <DatePicker x:Name="dp_EndDate" HorizontalAlignment="Left" Margin="477,133,0,0" VerticalAlignment="Top" Width="94"/>
         <Button x:Name="btn_UltimiArrivi" Content="Cerca" HorizontalAlignment="Left" Margin="49,228,0,0" VerticalAlignment="Top" Width="89" Click="btn_UltimiArrivi_Click"/>
         <Button x:Name="btn_Scontati" Content="Cerca" HorizontalAlignment="Left" Margin="246,333,0,0" VerticalAlignment="Top" Width="89" Click="btn_Scontati_Click"/>
         <Button x:Name="btn_RicercaDate" Content="Cerca" HorizontalAlignment="Left" Margin="431,333,0,0" VerticalAlignment="Top" Width="89" Click="btn_RicercaDate_Click"/>
         <Button x:Name="btn_CercaCarrello" Content="Cerca" HorizontalAlignment="Left" Margin="576,371,0,0" VerticalAlignment="Top" Width="195" Click="btn_CercaCarrello_Click"/>
+        <ListBox x:Name="lst_LibriScontati" HorizontalAlignment="Left" Height="128" Margin="215,200,0,0" VerticalAlignment="Top" Width="161"/>
+        <ListBox x:Name="lst_LibriDate" HorizontalAlignment="Left" Height="128" Margin="404,200,0,0" VerticalAlignment="Top" Width="127"/>
+        <DatePicker x:Name="dp_StartDate" HorizontalAlignment="Left" Margin="328,133,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

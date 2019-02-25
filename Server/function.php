@@ -24,7 +24,7 @@
 		// searching
 		foreach($books['book'] as $book)
 			if($book['Discount'] != "0")
-				$discountedBooks[$book['Title']] = $book['Discount'];
+				$discountedBooks[$book['Title']] = " ".$book['Discount'];
 			
 		// array sorting by discount
 		asort($discountedBooks);
@@ -47,7 +47,7 @@
 			$currentDate = new DateTime($book['StorageDate']);
 			
 			if(date_diff($startDate, $currentDate)->format('%R%a') > 0)
-				if ((date_diff($startDate, $currentDate)->format('$R%a')) <= (date_diff($startDate, $currentDate)->format('%R%a')))
+				if ((date_diff($startDate, $currentDate)->format('$R%a')) <= (date_diff($startDate, $endDate)->format('%R%a')))
 					array_push($verifiedBooks, $book['Title']);
 		}
 

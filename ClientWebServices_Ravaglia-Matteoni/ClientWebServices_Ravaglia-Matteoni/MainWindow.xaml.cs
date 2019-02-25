@@ -28,7 +28,24 @@ namespace ClientWebServices_Ravaglia_Matteoni
 
         
 
-        async static void GetRequest(string url)
+        async static Task<string> GetRequest(string url)
+        {
+            using (HttpClient client = new HttpClient())
+            {
+                // Richiesta al server
+                using (HttpResponseMessage response = await (client.GetAsync(url)))
+                {
+                    // Estrazione del contenuto
+                    using (HttpContent content = response.Content)
+                    {
+                        string myContent = await (content.ReadAsStringAsync());
+                        return myContent;
+                    }
+                }
+            }
+        }
+
+       /*async static void SimpleGetRequest(string url)
         {
             using (HttpClient client = new HttpClient())
             {
@@ -40,44 +57,46 @@ namespace ClientWebServices_Ravaglia_Matteoni
                     {
                         string myContent = await (content.ReadAsStringAsync());
 
-                        MessageBox.Show(myContent);                        
+                        MessageBox.Show("Libri trovati: " + myContent);
                     }
                 }
             }
+        }*/
+
+        async private void btn_UltimiArrivi_Click(object sender, RoutedEventArgs e)
+        {
+            string result = await (GetRequest(Command.FirstQuery()));
+
+            MessageBox.Show("Libri trovati: " + result);
         }
 
-        private void btn_Get_Click(object sender, RoutedEventArgs e)
+        async private void btn_Scontati_Click(object sender, RoutedEventArgs e)
         {
-            // URL a cui inoltrare la richiesta
-            string url = @"http://10.13.100.35/Rava/WebServices/?op=" +
-                         "3&d1=2000-04-13&d2=2010-06-10";
+            string result = await(GetRequest(Command.SecondQuery()));
 
-            //op=3&d1=2000-04-13&d2=2010-06-10
-            GetRequest(url);
+            foreach (string book in Command.ExtractContent(2, result))
+                lst_LibriScontati.Items.Add(book + "%");
         }
 
-        private void btn_UltimiArrivi_Click(object sender, RoutedEventArgs e)
+        async private void btn_RicercaDate_Click(object sender, RoutedEventArgs e)
         {
-            GetRequest(Command.FirstQuery());
-        }
+            string result;
 
-        private void btn_Scontati_Click(object sender, RoutedEventArgs e)
-        {
-            GetRequest(Command.SecondQuery());
-        }
-
-        private void btn_RicercaDate_Click(object sender, RoutedEventArgs e)
-        {
             if ((dp_StartDate.SelectedDate != null) && (dp_EndDate.SelectedDate != null))
-                GetRequest(Command.ThirdQuery((DateTime)dp_StartDate.SelectedDate, (DateTime)dp_EndDate.SelectedDate));
+            {
+                result = await (GetRequest(Command.ThirdQuery((DateTime)dp_StartDate.SelectedDate, (DateTime)dp_EndDate.SelectedDate)));
+
+                foreach (string book in Command.ExtractContent(3, result))
+                    lst_LibriDate.Items.Add(book);
+            }
             else
                 MessageBox.Show("Selezionare una data di inizio e una di fine", "Errore");
         }
 
-        private void btn_CercaCarrello_Click(object sender, RoutedEventArgs e)
+        async private void btn_CercaCarrello_Click(object sender, RoutedEventArgs e)
         {
-            if (CodiceCarrello.Text != "")
-                GetRequest(Command.FourthQuery(CodiceCarrello.Text));
+           if (CodiceCarrello.Text != "")
+                MessageBox.Show(await(GetRequest(Command.FourthQuery(CodiceCarrello.Text))));
             else
                 MessageBox.Show("Inserire il codice del carrello");
         }
