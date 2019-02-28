@@ -13,7 +13,6 @@
         <TextBox x:Name="quantita" HorizontalAlignment="Left" Height="23" Margin="49,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="89"/>
         <Label x:Name="_1" Content="Quantita dei libri &quot;Ultimi arrivi&quot;&#xA;nel reparto &quot;fumetti&quot;:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,53,0,0" Width="171" Background="Black" Foreground="White"/>
         <Button x:Name="elenco3r" Content="elenco3" HorizontalAlignment="Left" Margin="630,170,0,0" VerticalAlignment="Top" Width="88" Height="25" Background="Black" Foreground="White"/>
-        <TextBox x:Name="elenco3" HorizontalAlignment="Left" Height="166" Margin="576,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195"/>
         <Label x:Name="_2" Content="Elenco libri scontati in tutti&#xA;i reparti (in ordine crescente&#xA;per sconto):" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="215,53,0,0" Width="161" Height="60" Background="Black" Foreground="White"/>
         <Label x:Name="_3" Content="Elenco libri archiviati tra le&#xA;seguenti date:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="404,58,0,0" Width="149" Background="Black" Foreground="White"/>
         <Label x:Name="inizior" Content="inizio" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="417,105,0,0" Width="40" Height="23" RenderTransformOrigin="-2.189,4.783" Background="Black" Foreground="White"/>
@@ -27,8 +26,9 @@
         <Button x:Name="btn_RicercaDate" Content="Cerca" HorizontalAlignment="Left" Margin="431,333,0,0" VerticalAlignment="Top" Width="89" Click="btn_RicercaDate_Click"/>
         <Button x:Name="btn_CercaCarrello" Content="Cerca" HorizontalAlignment="Left" Margin="576,371,0,0" VerticalAlignment="Top" Width="195" Click="btn_CercaCarrello_Click"/>
         <ListBox x:Name="lst_LibriScontati" HorizontalAlignment="Left" Height="128" Margin="215,200,0,0" VerticalAlignment="Top" Width="161"/>
-        <ListBox x:Name="lst_LibriDate" HorizontalAlignment="Left" Height="128" Margin="404,200,0,0" VerticalAlignment="Top" Width="127"/>
+        <ListBox x:Name="lst_LibriDate" HorizontalAlignment="Left" Height="128" Margin="404,200,0,0" VerticalAlignment="Top" Width="167"/>
         <DatePicker x:Name="dp_StartDate" HorizontalAlignment="Left" Margin="328,133,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lst_Carrello" HorizontalAlignment="Left" Height="166" Margin="589,200,0,0" VerticalAlignment="Top" Width="183"/>
 
     </Grid>
 </Window>

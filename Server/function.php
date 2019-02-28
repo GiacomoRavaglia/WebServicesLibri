@@ -8,7 +8,7 @@
 		
 		// searching
 		foreach($books['book'] as $book)
-			if(($book['Category'] == "fumetti") && ($book['Subcategory'] == "Ultimi arrivi"))
+			if(($book['Category'] == "Fumetti") && ($book['Subcategory'] == "Ultimi arrivi"))
 				$count++;
 			
 		return $count;
@@ -47,7 +47,7 @@
 			$currentDate = new DateTime($book['StorageDate']);
 			
 			if(date_diff($startDate, $currentDate)->format('%R%a') > 0)
-				if ((date_diff($startDate, $currentDate)->format('$R%a')) <= (date_diff($startDate, $endDate)->format('%R%a')))
+				if ((date_diff($startDate, $currentDate)->format('%R%a')) <= (date_diff($startDate, $endDate)->format('%R%a')))
 					array_push($verifiedBooks, $book['Title']);
 		}
 
@@ -59,8 +59,8 @@
 	{
 		// local arrays
 		$users = json_decode(file_get_contents("dbUsers.json"), true);			// array which contains every book into the database	
-		$result = array();													// array which contains the books contained into the cart
-		$convertedResult = array();
+		$result = array();														// array which contains the books contained into the cart
+		$convertedResult = array();												// array which contains the converted the result
 		
 		// seaching the correct user and the cart
 		foreach($users as $user)

@@ -27,3 +27,4 @@ C:\Users\giacomo.ravaglia\Desktop\WebServicesLibri\ClientWebServices_Ravaglia-Ma
 C:\Users\giacomo.ravaglia\Desktop\WebServicesLibri\ClientWebServices_Ravaglia-Matteoni\ClientWebServices_Ravaglia-Matteoni\obj\Debug\ClientWebServices_Ravaglia-Matteoni.csproj.CoreCompileInputs.cache
 C:\Users\giacomo.ravaglia\Desktop\WebServicesLibri\ClientWebServices_Ravaglia-Matteoni\ClientWebServices_Ravaglia-Matteoni\obj\Debug\ClientWebServices_Ravaglia-Matteoni.exe
 C:\Users\giacomo.ravaglia\Desktop\WebServicesLibri\ClientWebServices_Ravaglia-Matteoni\ClientWebServices_Ravaglia-Matteoni\obj\Debug\ClientWebServices_Ravaglia-Matteoni.pdb
+C:\Users\giacomo.ravaglia\Desktop\WebServicesLibri\ClientWebServices_Ravaglia-Matteoni\ClientWebServices_Ravaglia-Matteoni\obj\Debug\ClientWebServices_Ravaglia-Matteoni.csprojAssemblyReference.cache

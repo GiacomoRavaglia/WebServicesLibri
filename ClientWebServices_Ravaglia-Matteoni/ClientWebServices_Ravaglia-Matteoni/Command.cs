@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace ClientWebServices_Ravaglia_Matteoni
 {
+    /*
+     * Static class that have the following function:
+     *   - generate the server's commands from user's input
+     *   - format the received strings(remove unused chars and split into array) 
+     */
     static class Command
     {
         // attributes
@@ -31,8 +36,6 @@ namespace ClientWebServices_Ravaglia_Matteoni
             string end = "d2=" + endDate.Year + "-" + endDate.Month + "-" + endDate.Day;                    // the end date of the given period
 
             return serverAddress + "?op=3&" + start + end;
-
-            //op=3&d1=2000-04-13&d2=2010-06-10
         }
 
         // method to request the fourth query to the server
@@ -43,7 +46,7 @@ namespace ClientWebServices_Ravaglia_Matteoni
 
         /* method that return an array which contains the results of the query
          * 
-         * NOTE: the first query doesn't need this method because it return only a number and not a string
+         * NOTE: the case's number are not equal to the query number
          */
         public static string[] ExtractContent(int operationCode, string result)
         {
@@ -52,30 +55,20 @@ namespace ClientWebServices_Ravaglia_Matteoni
 
             switch (operationCode)
             {
-                case 2:
+                // second query
+                case 1:
                     formattedResult = result.Remove(0, 2);
                     formattedResult = formattedResult.Remove(formattedResult.Length - 2, 2);
                     formattedResult = formattedResult.Replace("\"", "");
 
                     return formattedResult.Split(',');
 
-                case 3:
+                // third and fourth query
+                case 2:
                     formattedResult = result.Remove(0, 1);
                     formattedResult = formattedResult.Remove(formattedResult.Length - 1, 1);
 
                     return formattedResult.Split('#');
-
-                 /*case 4:
-                    string[] partialResult;
-                    string[][] completeResult;
-
-                    result.Remove(0, 1);
-                    result.Remove(result.Length - 1, 1);
-
-                    partialResult = result.Split('#');
-                    completeResult = new string[partialResult.Length][2];
-                    foreach(string element in partialResult)
-                    break;*/
 
                 default:
                     return null;
