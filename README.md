@@ -10,6 +10,7 @@ COMPITI:
 
 
 COMPONENTI SOFTWARE
+    
     Lato server:
         - index.php: file che distingue fra le varie query e manda in esecuzione quella corretta
         - function.php: file contenente l'elaborazione di tutte le query
